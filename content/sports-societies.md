@@ -81,7 +81,7 @@ Daniel Watts, d@nielwatts.com<br>
 
 <!-- NB: insert image -->
 
-Darwin College Boat Club (DCBC) is the largest society in Darwin. We are one of the most successful graduate boat clubs in Cambridge but above all, highly social and a very welcoming family. Rowing is hard to avoid in a place like Cambridge, it is a rich historical tradition and a quintessential part of the Cambridge experience. At DCBC we believe everyone should give it a go.
+Darwin College Boat Club (DCBC) is the largest society in Darwin. We are one of the most successful graduate boat clubs in Cambridge but above all, highly social and a very welcoming family. Rowing is hard to avoid in a place like Cambridge, it is a rich historical tradition and a quintessential part of the Cambridge experience. At DCBC we believe everyone should give it a go. 
 <br><br>
 Having just celebrated our 50th anniversary, we are a vibrant community which has been surging forward in the league over the past couple of years. While we train throughout the academic year (winter and summer) and participate in numerous races, including the main events of Lent Bumps (March) and May Bumps (June – don’t ask), we remain relaxed and don’t let competition get in the way of having fun. May Bumps s one of the highest-profile events on the Cambridge calendar (possibly the world, and that’s not an exaggeration!).
 <br><br>
@@ -95,8 +95,8 @@ Rowing is teamwork at its best. We cultivate strong tan lanes in the summer, dec
 <br><br>
 
 <strong>Contact:</strong> <br>
-Alicia Wilcox, aw644<br>
-Vivian Lechner, vdl20<br>
+Oli Fleck, aw644<br>
+Tatjana ..., vdl20<br>
 <a href="https://www.facebook.com/DarwinCollegeBoatClub/">Facebook</a><br>
 </details>
 
