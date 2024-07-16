@@ -5,7 +5,7 @@ permalink: /sports-societies/
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
-<strong> If you'd like to start a new Sport or Society please get in touch with the DCSA Sports & Socities Officers </strong>
+<strong> If you'd like to start a new Sport or Society please get in touch with the DCSA Sports & Societies Officers </strong>
 
 # Sports & Societies
 <br>
