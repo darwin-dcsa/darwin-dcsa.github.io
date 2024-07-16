@@ -14,7 +14,7 @@ permalink: /meet-the-dcsa/
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
         dcsa_president AT darwin.cam.ac.uk<br/>
-        Niamh HARTLEY<br/>
+        Joshua BICKLER<br/>
         <p align="justify"> 
 Hi! I’m Niamh and I’m a PhD student at the Department of Chemistry specialising in developing new carbon capture technology. Outside of my PhD, I enjoy socialising at Darbar, reading in the gardens and taking care of my many plant babies. If you have any ideas or questions for the DCSA and/or college, drop me a message so we can chat over a cup of tea/coffee!<br><br>
 
