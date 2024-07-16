@@ -6,4 +6,3 @@ show_downloads: false
 plugins:
   - jekyll-redirect-from
 google_analytics:
-future: true
