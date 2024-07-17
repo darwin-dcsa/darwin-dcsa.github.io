@@ -157,7 +157,7 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
 I’m Harrison, a PhD student in the Film & Screen department studying depictions of labour and gender in New Hollywood cinema. Outside of my work (if you can really call watching movies all day work), I love going to pub quizzes and hanging out in DarBar.
 <br><br>
 
-The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that Joshua can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
+The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that they can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
         </p>
     </td></tr>
 
