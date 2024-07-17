@@ -4,7 +4,7 @@ permalink: /meet-the-dcsa/
 
 # Meet the DCSA Executive Committee
 
-<!-- Trinity -->
+<!-- Trinity --> 
 
 <table> 
 <tr>
