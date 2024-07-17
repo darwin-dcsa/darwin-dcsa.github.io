@@ -29,9 +29,9 @@ The President is the representative of the DCSA to College, voicing the opinions
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
         dcsa_secretary AT darwin.cam.ac.uk<br/>
-        Toby BRANN<br/>
+        David O'SHEA (they/them) <br/>
         <p align="justify">
-Hello everyone! I’m Toby Brann, a 3rd year PhD student applying computational methods to study the mobile DNA of parasites in the Department of Pathology, specifically schistosomiasis, or Bilharzia. Outside of work, I love any and all sports, having fenced, rowed and played football whilst in Darwin. I also organised last year's May Ball and if you want to get involved in planning the ball this year - come talk to me!<br><br>
+Hi I'm David and I'm a Physics PhD student from Essex working on defect centres in diamond- in short, I get to shoot lasers at diamonds. When I’m not stuck in a windowless lab I'm usually playing bass, reading books, or building Lego.<br><br>
 
 The Secretary is the administrator of the committee and the Vice President (chair meetings and run the committee in the absence of the President). They run DCSA elections, take meeting minutes, and ensure that up-to-date records of the DCSA’s affairs are maintained, including policy documents and the DCSA Constitution, Schedule, & Regulations. The Secretary also sits on the Buildings & Grounds and the Darwin College Society Committees; and is in charge of the TV room and its bookings.
         </p>
