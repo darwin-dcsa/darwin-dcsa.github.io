@@ -276,9 +276,9 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
         <strong>Welfare Officers</strong><br/>
         dcsa_welfare AT darwin.cam.ac.uk<br/>
         <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
-        Sofia DARTNELL, Women's and NB Welfare<br/>
+        Jemima SWAIN, Women's and NB Welfare<br/>
         <p align="justify">
-Sofia Dartnell is a Zoology PhD student focused on bumblebee conservation. She is currently studying bumblebee brood parasites, or cuckoos. When she isn’t out catching bees, you can find Sofia singing, salsa dancing, or punting with friends. She is always up for a chat over tea, feel free to reach out!<br><br>
+Hi everyone! I’m Jemima, a first year PhD student in the Department of Biochemistry studying how the different microbes that can infect the lungs of people with cystic fibrosis interact with each other. Outside of work you can find me knitting, ceilidh-ing, rowing, or trying out yet another new hobby! I’m always up for tea and a chat, so feel free to reach out or come and say hello if you see me about College!<br><br>
 </p>
 </td></tr>
 
