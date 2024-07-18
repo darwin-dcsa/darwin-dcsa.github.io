@@ -337,9 +337,9 @@ Hi all! I'm Pjotr, a PhD student in genetics working on evolution (something wit
     </td>
     <td style="vertical-align: middle">
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Sigurdur "Siggi" MARTINSSON (he/him) <br/>
+        Sigurdur "Siggi" MARTINSSON <br/>
         <p align="justify">
-Hello everybody! I am Siggi, going into my second year studying the environmental impact of the food system and the use of choice architecture interventions to promote sustainable food choices. I am originally from Iceland, but have lived in this country for most of my adult life, first in London and then for nearly 15 years here in Cambridge.  I have a background in medicine and law, but now devote most of my time and energy towards climate and social justice.
+Hello everybody! I am Siggi, going into my second year studying the environmental impact of the food system and the use of choice architecture interventions to promote sustainable food choices. I am originally from Iceland, but have lived in the UK for most of my adult life, first in London and then for nearly 15 years here in Cambridge.  I have a background in medicine and law, but now devote most of my time and energy towards climate and social justice.
             
 Outside of that I can be found running around Cambridge for extensive periods of time for no obvious reason, and also if it is sunny cycling aimlessly around the surrounding countryside. I also regularly attempt something that could generously be described as singing with the Darwin choir. <br><br>
 
