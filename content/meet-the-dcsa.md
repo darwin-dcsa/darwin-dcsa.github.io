@@ -339,7 +339,9 @@ Hi all! I'm Pjotr, a PhD student in genetics working on evolution (something wit
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Sigurdur "Siggi" MARTINSSON (he/him) <br/>
         <p align="justify">
-Hi! <br><br>
+Hello everybody! I am Siggi, going into my second year studying the environmental impact of the food system and the use of choice architecture interventions to promote sustainable food choices. I am originally from Iceland, but have lived in this country for most of my adult life, first in London and then for nearly 15 years here in Cambridge.  I have a background in medicine and law, but now devote most of my time and energy towards climate and social justice.
+            
+Outside of that I can be found running around Cambridge for extensive periods of time for no obvious reason, and also if it is sunny cycling aimlessly around the surrounding countryside. I also regularly attempt something that could generously be described as singing with the Darwin choir. <br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
@@ -355,9 +357,9 @@ The College Council Reps are elected by the students to represent them in Colleg
         dcsa_bar AT darwin.cam.ac.uk<br/>
         Patrick HAYES<br/>
         <p align="justify">
-Patrick is a PhD student in Classics, he studies the formation of political borders during the Hellenistic Period. You can find him mulling over all things ancient at Darbar where he regularly pulls pints and is well known for creating a flawless Baby Guinness. He also loves running and reading (although not at the same time - that's difficult!).<br><br>
+Patrick is a PhD student in Classics, he studies the formation of political borders during the Hellenistic Period. You can find him mulling over all things ancient at DarBar where he regularly pulls pints and is well known for creating a flawless Baby Guinness. He also loves running and reading (although not at the same time - that's difficult!).<br><br>
 
-Darbar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
+DarBar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
         </p>
     </td></tr>
 
