@@ -14,7 +14,7 @@ permalink: /meet-the-dcsa/
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
         dcsa_president AT darwin.cam.ac.uk<br/>
-        Joshua BICKLER<br/>
+        Joshua BICKLER (he/him)<br/>
         <p align="justify"> 
 Hi! I’m Joshua, a Physics PhD specialising in modelling the plasma physics in a Tokamak fusion reactor. I’m from Aotearoa/New Zealand with a passion for climate justice and sustainable energy. You’ll probably catch me jamming in the music room or enjoying a drink at DarBar. If you've got any questions about the DCSA or college flick me an email or come say hi and have a chat!<br><be>
 
@@ -44,9 +44,9 @@ The Secretary is the administrator of the committee and the Vice President (chai
     <td style="vertical-align: middle">
         <strong>Treasurer</strong><br/>
         dcsa_treasurer AT darwin.cam.ac.uk<br/>
-        Jonathan PARKER<br/>
+       Masha NOVOSELOVA (she/her)<br/>
         <p align="justify">
-Jonathan is studying for a PhD in Biochemistry, researching MYC dependent signalling in Pancreatic Ductal Adenocarcinoma. When not working on his PhD or training with the University of Cambridge Ice Hockey Club Men’s Blues, Jonathan can be found enjoying DarBar’s extensive whisky collection.<br><br> 
+Hello everyone, I’m Masha, a PhD student at the Wolfson Brain Imaging Centre. I work on novel MRI techniques to bridge the gap between physics and medicine! Outside of the lab, I like to stay active with the college’s climbing club and unwind at Drink & Draw :) <br><br> 
 
 The Treasurer is responsible for managing the finances of the DCSA, including drafting the annual budget, publishing periodic expense reports, and assessing the financial feasibility of projects. They are responsible for ensuring timely reimbursements and payments of invoices and for maintaining accurate financial records. The Treasurer also sits on the College Finance Committee.
         </p>
