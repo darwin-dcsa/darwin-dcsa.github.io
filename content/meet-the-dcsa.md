@@ -65,7 +65,7 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
         <p align="justify">
 Callum is a PhD student studying cancer biology, focusing on paediatric lymphoma. An aquatic sports enthusiast, Callum also plays on the university water polo team so you can often find him struggling to stay afloat in one of Cambridge’s many paddling pools.<br><br>
 
-The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
+The Admiral of the Punts is responsible for all the punt club's vessels, including punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
         </p>
     </td></tr>
     
