@@ -20,8 +20,7 @@ Hi! I’m Joshua, a Physics PhD specialising in modelling the plasma physics in 
 
 
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
-        </p>
-    </td></tr>
+        
 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
