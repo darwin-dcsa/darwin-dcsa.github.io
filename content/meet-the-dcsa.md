@@ -200,7 +200,7 @@ The External Officer is responsible for organising formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>Families Officer</strong><br/>
          dcsa_families AT darwin.cam.ac.uk<br/>
-         Ben RUDD <br/>
+         Ben RUDD (he/him) <br/>
         <p align="justify">
 Hi! I’m Ben Rudd. I was an English teacher for many years and have returned to Cambridge for my PhD in Education. I am currently a second year who is looking at ways educators might use material referents to help students improve narrative awareness in creative writing and literary analysis. I live in Darwin accommodation with my partner Rachel, who is a digital media sociologist, and my daughter Eve, who is a toddler. Outside of my studies, I enjoy reading contemporary literature, quizzing, and playing guitar. 
 <br><br>
@@ -337,9 +337,9 @@ Hi all! I'm Pjotr, a PhD student in genetics working on evolution (something wit
     </td>
     <td style="vertical-align: middle">
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Joshua BICKLER<br/>
+        Sigurdur "Siggi" MARTINSSON (he/him) <br/>
         <p align="justify">
-Hi! I’m Joshua, a Physics PhD specialising in modelling the plasma physics in a Tokamak fusion reactor. I’m from Aotearoa/New Zealand with a passion for climate justice and sustainable energy. You’ll probably catch me jamming in the music room or enjoying a drink at DarBar!<br><br>
+Hi! <br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
