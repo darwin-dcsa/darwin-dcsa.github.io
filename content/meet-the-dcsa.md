@@ -92,7 +92,7 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
          dcsa_coms AT darwin.cam.ac.uk<br/>
          Rachel GU (she/her)<br/>
         <p align="justify">
-Hi everyone, I’m Rachel! I’m currently wrapping up my PGCE in Early Primary to teach 3-7-year-olds. Outside of that, I can be found in Darwin kayaking, beekeeping, quizzing, gardening, or – more commonly – running around the place because I’ve lost my keys somewhere. Come and say hello if you spot me around; I’m always up for a chat! <br><br>
+Hi everyone, I’m Rachel! I’m currently wrapping up my PGCE in Early Primary to teach 3-7-year-olds. Outside of that, I can be found in Darwin kayaking, beekeeping, quizzing, gardening, or – more commonly – running around in panic because I’ve lost my keys again. Come and say hello if you spot me around; I’m always up for a chat! <br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info">mailing list</a>!
         </p>
