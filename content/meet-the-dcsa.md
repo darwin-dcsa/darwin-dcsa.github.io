@@ -16,7 +16,7 @@ permalink: /meet-the-dcsa/
         dcsa_president AT darwin.cam.ac.uk<br/>
         Joshua BICKLER (he/him)<br/>
         <p align="justify"> 
-Hi! I’m Joshua, a Physics PhD specialising in modelling the plasma physics in a Tokamak fusion reactor. I’m from Aotearoa/New Zealand with a passion for climate justice and sustainable energy. You’ll probably catch me jamming in the music room or enjoying a drink at DarBar. If you've got any questions about the DCSA or college flick me an email or come say hi and have a chat!<br><be>
+Hi! I’m Joshua, a Physics PhD specialising in modelling the plasma physics in a Tokamak fusion reactor. I’m from Aotearoa/New Zealand with a passion for climate justice and sustainable energy. You’ll probably catch me jamming in the music room or enjoying a drink at DarBar. If you've got any questions about the DCSA or college flick me an email or come say hi and have a chat!<br><br>
 
 
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
