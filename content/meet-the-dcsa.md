@@ -250,9 +250,7 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
          Laura MAGNANI<br/>
         <p align="justify">
 Hi all!  
-I am Laura, an enthusiastic and curious PhD student in Stem Cell Biology. I have always been fascinated by the only fluid tissue of our body, the blood. My PhD aims at understanding the mechanisms governing human blood stem cell differentiation into mature blood cells.  
-
-Whenever the cells I study allow me, I spend my free time playing volleyball and hiking. And when I get even luckier, enjoy having tea with friends while knitting. 
+I am Laura, an enthusiastic and curious PhD student in Stem Cell Biology. I have always been fascinated by the only fluid tissue of our body, the blood. My PhD aims at understanding the mechanisms governing human blood stem cell differentiation into mature blood cells. Whenever the cells I study allow me, I spend my free time playing volleyball and hiking. And when I get even luckier, enjoy having tea with friends while knitting. 
 .<br><br>
 
        
