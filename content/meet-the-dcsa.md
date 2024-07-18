@@ -90,7 +90,7 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
          dcsa_coms AT darwin.cam.ac.uk<br/>
-         Rachel GU<br/>
+         Rachel GU (she/her)<br/>
         <p align="justify">
 Hi everyone, I’m Rachel! I’m currently wrapping up my PGCE in Early Primary to teach 3-7-year-olds. Outside of that, I can be found in Darwin kayaking, beekeeping, quizzing, gardening, or – more commonly – running around the place because I’ve lost my keys somewhere. Come and say hello if you spot me around; I’m always up for a chat! <br><br>
 
