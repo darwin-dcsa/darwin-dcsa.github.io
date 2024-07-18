@@ -247,9 +247,13 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
     <td style="vertical-align: middle">
         <strong>Sports and Societies Officers</strong><br/>
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Callum MALCOLM<br/>
+         Laura MAGNANI<br/>
         <p align="justify">
-Callum is a PhD student studying cancer biology, focusing on paediatric lymphoma. An aquatic sports enthusiast, Callum also plays on the university water polo team so you can often find him struggling to stay afloat in one of Cambridge’s many paddling pools.<br><br>
+Hi all!  
+I am Laura, an enthusiastic and curious PhD student in Stem Cell Biology. I have always been fascinated by the only fluid tissue of our body, the blood. My PhD aims at understanding the mechanisms governing human blood stem cell differentiation into mature blood cells.  
+
+Whenever the cells I study allow me, I spend my free time playing volleyball and hiking. And when I get even luckier, enjoy having tea with friends while knitting. 
+.<br><br>
 
        
 
