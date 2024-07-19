@@ -122,7 +122,7 @@ with any disability or long-term health condition.
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Lewis STRACHAN
+        Lewis STRACHAN (he/him)
         <br/>
 <p align="justify">
 Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at the Cambridge Institute for Medical Research. When I'm not stuck at Addenbrooke's I like cycling, hanging with friends at Darbar, and sometimes just watching the river go by. <br>
