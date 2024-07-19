@@ -135,11 +135,11 @@ Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at th
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-         Ruth MORIARTY (they/them)
+         Ruth MORIARTY / Ruth NÍ MHUIRCHEARTAIGH (they/them)
         <br/>
        <p align="justify"> 
-Hi/Haigh! I am Ruth, hailing from Ireland and currently studying for a Master's in Mathematics Education. As well as mathematics, I am an enthusiast of languages (especially Gaelic languages), film, music (listening/making) and the outdoors. When I am not educating, being educated or thinking about education, you may find me reading in the garden, cycling, kayaking, playing tennis or drinking (an unusually flavoured) beer at DarBar. If you spot my mushroom-shaped ginger head around Darwin, do come say hi.
-<br>
+Hi/Haigh! I am Ruth, hailing from Ireland and currently studying for a Master's in Mathematics Education. As well as mathematics, I am an enthusiast of languages (especially Gaelic languages), film, music (listening/making) and the outdoors. When I am not educating, being educated or thinking about education, you may find me reading in the garden, cycling, kayaking, playing tennis or drinking (an unusually flavoured) beer at DarBar. If you spot my mushroom-shaped ginger head around Darwin, do come say hi. <be>
+
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
