@@ -216,7 +216,7 @@ The Families Officer is responsible for representing and furthering the needs of
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international AT darwin.cam.ac.uk<br/>
-         Salome Afua ADDO<br/>
+         Salomey Afua ADDO<br/>
         <p align="justify">
 Salomey Afua Addo is a PhD student at the Computer Lab. Her research work is focused on understanding how young people improve their understanding of Artificial Neural Networks using Physical Computing. Salomey has a keen interest in equal access in education and recognises the importance of equipping children with digital skills and knowledge for a better future. She has a rich international exposure, and she is keen on learning more about different cultures across the world. She loves reading novels and taking walks in nature in her leisure time.<br><br>
 
