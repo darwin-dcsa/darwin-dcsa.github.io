@@ -61,10 +61,10 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
     <td style="vertical-align: middle">
         <strong>Admiral of the Punts</strong><br/>
         dcsa_punts AT darwin.cam.ac.uk<br/>
-        Callum MALCOLM<br/>
+        Callum MALCOLM (he/him)<br/>
         <p align="justify">
 Ahoy Darwinians! I’m Callum, a cancer biology PhD student studying relapse mechanisms in paediatric lymphoma. When not traversing the high seas of the River Cam, you can find me trying to stay afloat in one of Cambridge’s many paddling pools as part of the University water polo team.<br><br>
-
+ 
 The Admiral of the Punts is responsible for all the punt club's vessels, including punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
         </p>
     </td></tr>
@@ -138,7 +138,7 @@ Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at th
          Ruth MORIARTY / Ruth NÍ MHUIRCHEARTAIGH (they/them)
         <br/>
        <p align="justify"> 
-Hi/Haigh! I am Ruth, hailing from Ireland and currently studying for a Master's in Mathematics Education. As well as mathematics, I am an enthusiast of languages (especially Gaelic languages), film, music (listening/making) and the outdoors. When I am not educating, being educated or thinking about education, you may find me reading in the garden, cycling, kayaking, playing tennis or drinking (an unusually flavoured) beer at DarBar. If you spot my mushroom-shaped ginger head around Darwin, do come say hi. <br><br>
+Hi/Haigh! I am Ruth, hailing from Ireland and studying for a Master's in Mathematics Education. As well as mathematics, I am an enthusiast of languages (especially Gaelic languages), film, music (listening/making) and the outdoors. When I am not educating, being educated or thinking about education, you may find me reading in the garden, cycling, kayaking, playing tennis or drinking (an unusually flavoured) beer at DarBar. If you spot my mushroom-shaped ginger head around Darwin, do come say hi. <br><br>
 
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
