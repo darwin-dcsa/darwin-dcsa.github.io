@@ -231,10 +231,10 @@ The International Officer is responsible for representing the needs of internati
     <td style="vertical-align: middle">
         <strong>Q+ Officer</strong><br/>
         dcsa_lgbtq AT darwin.cam.ac.uk<br/>
-        Teodor DUDII<br/>
+        Alexandre PORCHER FERNANDES (he/him)<br/>
         <p align="justify">
 
-Hi everyone! My name is Theo, and I’m a Digital Humanities MPhil student. Presently I’m working with applying computational methods to analysing metre in Ancient Greek drama. Outside of studying I like watching makeover reality TV shows, reading non-fiction (specifically too-vague essays), writing, playing the guitar really badly and trying not to kill the houseplants I bought to make my room “a little more lively”. <br><br>
+Hey! I am Alex, a second-year PhD student at the Department of Genetics. I grew up in Brazil, then later moved to Portugal when I was 18, and have now been living in the UK for almost two years. I enjoy hiking, doing origami, and drinking tequila (so you can find me at DarBar every so often). Please feel free to contact me with suggestions for how we can improve the Q+ community in the college at any time! <br><br>
 
 The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Joe is always there to chat, advise and help out where possible.
         </p>
