@@ -308,7 +308,7 @@ The Welfare Officers are the student contact for students who are in need of hel
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
         dcsa_women AT darwin.cam.ac.uk<br/>
-        Sofia DARTNELL<br/>
+        Sofia DARTNELL (she/her)<br/>
         <p align="justify">
 Hi all! My name is Sofia, I’m a third-year Zoology PhD student studying bumblebees. I run Darwin’s Beekeeping Society, as well as the Wine and Cheese Society. In my free time, I enjoy going for walks, salsa dancing, and exploring the new Jack’s gelato flavors. Feel free to reach out if you ever want to chat.<br><br>
 
@@ -323,7 +323,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Pradeep "Dee" DEBATA<br/>
+        Pradeep "Dee" DEBATA (he/him)<br/>
         <p align="justify">
 I am a 4th year part-time PhD student at the Institute for Manufacturing. I'm excited to help the student voice continue to be as valuable to Darwin as it is, and in my spare time I rock a variety of hats.<br><br>
 
