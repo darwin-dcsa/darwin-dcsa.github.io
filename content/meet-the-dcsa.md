@@ -310,7 +310,7 @@ The Welfare Officers are the student contact for students who are in need of hel
         dcsa_women AT darwin.cam.ac.uk<br/>
         Sofia DARTNELL<br/>
         <p align="justify">
-Hi all! My name is Sofia, I’m a third-year Zoology PhD student studying bumblebees. I run Darwin’s Beekeeping Society, as well as the Wine and Cheese Society. In my free time, I enjoy going for walks, salsa dancing, and exploring the new Jack’s gelato flavors. Feel free to reach out if you ever want to chat<br><br>
+Hi all! My name is Sofia, I’m a third-year Zoology PhD student studying bumblebees. I run Darwin’s Beekeeping Society, as well as the Wine and Cheese Society. In my free time, I enjoy going for walks, salsa dancing, and exploring the new Jack’s gelato flavors. Feel free to reach out if you ever want to chat.<br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
@@ -323,7 +323,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Pjotr VAN DER JAGT<br/>
+        Pradeep "Dee" DEBATA<br/>
         <p align="justify">
 I am a 4th year part-time PhD student at the Institute for Manufacturing. I'm excited to help the student voice continue to be as valuable to Darwin as it is, and in my spare time I rock a variety of hats.<br><br>
 
