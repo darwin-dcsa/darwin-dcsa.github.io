@@ -308,9 +308,9 @@ The Welfare Officers are the student contact for students who are in need of hel
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
         dcsa_women AT darwin.cam.ac.uk<br/>
-        Nicole WILSON<br/>
+        Sofia DARTNELL<br/>
         <p align="justify">
-Hi everyone! I’m completing an MPhil in Basic and Translational Neuroscience, investigating the intracellular mechanisms for handling aggregate-prone proteins in the brain. Outside of my studies, I love discovering new cafes and going climbing with friends. Feel free to reach out to me for a chat if you have any questions or concerns!<br><br>
+Hi all! My name is Sofia, I’m a third-year Zoology PhD student studying bumblebees. I run Darwin’s Beekeeping Society, as well as the Wine and Cheese Society. In my free time, I enjoy going for walks, salsa dancing, and exploring the new Jack’s gelato flavors. Feel free to reach out if you ever want to chat<br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
@@ -325,7 +325,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Pjotr VAN DER JAGT<br/>
         <p align="justify">
-Hi all! I'm Pjotr, a PhD student in genetics working on evolution (something with Darwin?). I spend a lot of my free time on the football field with the men's team of Darwin FC, on the river in one of Darwin's kayaks, or in my kitchen trying to cook something fun (36% success rate).<br><br>
+I am a 4th year part-time PhD student at the Institute for Manufacturing. I'm excited to help the student voice continue to be as valuable to Darwin as it is, and in my spare time I rock a variety of hats.<br><br>
 
       
 
