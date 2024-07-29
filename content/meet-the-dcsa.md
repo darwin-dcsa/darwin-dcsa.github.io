@@ -292,9 +292,9 @@ Hi everyone! I’m Jemima, a first year PhD student in the Department of Biochem
     <td style="vertical-align: middle">
         dcsa_welfare AT darwin.cam.ac.uk<br/>
         <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
-        Joe COWAN, Men's and NB Welfare<br/>
+        VACANT, Men's and NB Welfare<br/>
         <p align="justify">
-Hey everyone! I'm Joe and I'm a Linguistic student studying things we don't say, but imply. Usually, I am reading between the lines, but when not, I'm either in the sauna or drinking coffee on the patio.
+The DCSA is currently lacking a Men's and Non-binary officer — if you're interested in joining, contact the secretary or president.
 <br><br>
 
 The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
