@@ -186,10 +186,11 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external AT darwin.cam.ac.uk<br/>
-         Blake JOSEPH-OLSEN<br/>
+         VACANT<br/>
         <p align="justify">
-Hey! I'm from Minneapolis, Minnesota in the US. I enjoy swimming, playing music, and going on adventures with friends. My favorite place around campus is Coe Fen in the midday sun. I love being at Darwin because of the chill yet focused environment and the dining! I am currently doing an MPhil in the Hebrew Bible researching sacred spaces and generative intersubjectivity with the sacred. If you have any ideas for externals (formal swaps, bar / event swaps, etc.) let me know - input is always welcome!
+
 <br><br>
+The DCSA is currently lacking an External officer — if you're interested in joining, contact the secretary or president.
             
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
