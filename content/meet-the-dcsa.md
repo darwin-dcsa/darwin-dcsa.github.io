@@ -75,9 +75,11 @@ The Admiral of the Punts is responsible for all the punt club's vessels, includi
     </td>
     <td style="vertical-align: middle">
         <strong>BAME Officer</strong><br/>
-        dcsa_bame AT darwin.cam.ac.uk<br/>
+        dcsa_bame AT darwin.cam.ac.uk<br
+        Tugal KISHORE (he/him)<br/>
+        
         <p align="justify">
-The DCSA is currently lacking a BAME officer — if you're interested in joining, contact the secretary or president.<br><br>
+Hi! I'm Yugal Kishore, a second-year PhD student in the Department of Engineering. I am from Pakistan; my research is centred on understanding the critical factors contributing to embankment failure during the flood and seismic events and developing innovative approaches to enhance the sustainability and resilience of these structures.<br><br>
 
 The BAME officer works with college to further the needs of Black, Indigenous, and People of Colour’ (BIPOC) students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
         </p>
