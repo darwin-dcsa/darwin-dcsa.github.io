@@ -170,10 +170,10 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
     <td style="vertical-align: middle">
         <strong>Events Officer</strong><br/>
          dcsa_events AT darwin.cam.ac.uk<br/>
-         Amanda CHAN<br/>
+         Edouard BARRIER (he/him)<br/>
         <p align="justify">
-Hi everyone! I’m Amanda, the new Events Officer. I’m a MPhil student in Developmental Biology studying age-dependent regenerative mechanisms in the brain. Outside of the lab, you can find me having a drink at DarBar, playing volleyball, doing yoga, and playing (or more like attempting to play) the guitar. Feel free to come up and say hi if you see me around Darwin :).
-<br><br>
+.
+Hi everyone! I’m Edouard, a third year PhD student in astronomy specialising in exoplanet climate modelling. Outside this, you can find me playing sport for one of a number of Darwin teams or kicking back in Darbar. Come say hi!<br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
         </p>
@@ -264,9 +264,9 @@ I am Laura, an enthusiastic and curious PhD student in Stem Cell Biology. I have
     </td>
     <td style="vertical-align: middle">
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Alex BIAS<br/>
+         Gratsieka KOSTOVA (she/her)<br/>
         <p align="justify">
-Hi everyone! I’m Alex. I’m completing an MPhil in Engineering for Sustainable Development. I’m a member of the Cambridge Climate Society, working towards increased sustainability education. Feel free to reach out with any questions or say hi if you see me around!
+Hi, I'm Gratsiela and I’m a first-year PhD student at Darwin College. When I’m not in the lab you’ll find me at the gym, or snacking at the Darwin Café. I love a chat so please chat to me whenever you see me lounging around.
 <br><br>
             
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
