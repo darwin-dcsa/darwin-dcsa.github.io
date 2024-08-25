@@ -172,7 +172,7 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
          dcsa_events AT darwin.cam.ac.uk<br/>
          Edouard BARRIER (he/him)<br/>
         <p align="justify">
-.
+
 Hi everyone! I’m Edouard, a third year PhD student in astronomy specialising in exoplanet climate modelling. Outside this, you can find me playing sport for one of a number of Darwin teams or kicking back in Darbar. Come say hi!<br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
