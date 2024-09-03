@@ -154,9 +154,9 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
     <td style="vertical-align: middle">
         <strong>Environmental and Ethical Affairs Officer</strong><br/>
          dcsa_green AT darwin.cam.ac.uk<br/>
-         Harrison WHITAKER <br/>
+         VACANT <br/>
         <p align="justify">
-I’m Harrison, a PhD student in the Film & Screen department studying depictions of labour and gender in New Hollywood cinema. Outside of my work (if you can really call watching movies all day work), I love going to pub quizzes and hanging out in DarBar.
+The DCSA is currently lacking an Environmental and Ethical Affairs officer — if you're interested in joining, contact the secretary or president.
 <br><br>
 
 The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that they can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
@@ -219,9 +219,9 @@ The Families Officer is responsible for representing and furthering the needs of
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international AT darwin.cam.ac.uk<br/>
-         Salomey Afua ADDO<br/>
+         VACANT<br/>
         <p align="justify">
-Salomey Afua Addo is a PhD student at the Computer Lab. Her research work is focused on understanding how young people improve their understanding of Artificial Neural Networks using Physical Computing. Salomey has a keen interest in equal access in education and recognises the importance of equipping children with digital skills and knowledge for a better future. She has a rich international exposure, and she is keen on learning more about different cultures across the world. She loves reading novels and taking walks in nature in her leisure time.<br><br>
+The DCSA is currently lacking an International officer — if you're interested in joining, contact the secretary or president.<br><br>
 
 The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
         </p>
