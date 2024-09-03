@@ -190,8 +190,9 @@ The Events Officer coordinates, organises, and promotes social and entertainment
         <p align="justify">
 
 <br><br>
-The DCSA is currently lacking an External officer — if you're interested in joining, contact the secretary or president.
-            
+The DCSA is currently lacking an External officer — if you're interested in joining, contact the secretary or president.<br><br>
+
+        
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
     </td></tr>
