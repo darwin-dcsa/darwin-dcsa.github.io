@@ -356,9 +356,9 @@ The College Council Reps are elected by the students to represent them in Colleg
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
         dcsa_bar AT darwin.cam.ac.uk<br/>
-        Patrick HAYES<br/>
+        Jonathan PARKER and Joyce VALADARES <br/>
         <p align="justify">
-Patrick is a PhD student in Classics, he studies the formation of political borders during the Hellenistic Period. You can find him mulling over all things ancient at DarBar where he regularly pulls pints and is well known for creating a flawless Baby Guinness. He also loves running and reading (although not at the same time - that's difficult!).<br><br>
+Hello! We are Jonathan and Joyce, 4th & 3rd year PhD students, researching Pancreatic Ductal Adenocarcinoma and Cardiac Ischemia & Reperfusion Injury respectively. While Jonathan spends his free time competing with the University of Cambridge Ice Hockey Club Men’s Blues and consuming DarBar’s whisky collection, Joyce spends her time organising queer events like Gaydar, reading anywhere and everywhere, and “quality checking” cocktails. You will see us around the bar all too frequently, so don't hesitate to say hi!<br><br>
 
 DarBar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
         </p>
