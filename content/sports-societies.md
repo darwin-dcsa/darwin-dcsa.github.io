@@ -18,9 +18,11 @@ permalink: /sports-societies/
 <img src="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg" alt="[Badminton Club]"/>
 </div>
 
-Our club welcomes players of all standards, from complete beginners to experienced. No commitment, no membership fees, and courts are paid for by Darwin. We also provide rackets and shuttlecocks. All we want is for you to enjoy badminton. 
-For the competitive ones amongst you, we have a college team that competes in the intercollegiate league, so stay tuned for trials throughout the year!
-We usually play on Thursdays (6.30-8.15PM) and Sundays (3-5PM) at the Leys Leisure Sports Complex. There may be occasional changes to our sessions so please check your emails and join our Facebook group (https://www.facebook.com/groups/dcbadmintonclub/) for updates. 
+Our club welcomes players of all standards, from complete beginners to experienced. No commitment, no membership fees, and courts are paid for by Darwin. We also provide rackets and shuttlecocks. All we want is for you to enjoy badminton. For the competitive ones amongst you, we have a college team that competes in the intercollegiate league, so stay tuned for trials throughout the year! We usually play on Thursdays (6.30-8.15PM) and Sundays (3-5PM) at the Leys Leisure Sports Complex. There may be occasional changes to our sessions so please check your emails and join our WhatsApp group for updates.
+
+WhatsApp: Access via Community Page
+
+Contact: Kaizhong (kx232)
 <br><br>
 
 <strong>Contact:</strong> <br>
