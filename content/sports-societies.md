@@ -22,12 +22,8 @@ Our club welcomes players of all standards, from complete beginners to experienc
 
 WhatsApp: Access via Community Page
 
-Contact: Kaizhong (kx232)
+<strong>Contact:</strong> Kaizhong (kx232)
 <br><br>
-
-<strong>Contact:</strong> <br>
-President: Kaizhong Xing, kx232<br>
-<a href="https://www.facebook.com/groups/214620622041034">Facebook</a><br>
 </details>
 
 
@@ -77,7 +73,7 @@ Having BEEn lured in by the sweet idea  of collecting our very own honey, the  D
 <br><br>
 
 <strong>Contact:</strong> <br>
-Michael Schneider (ms2556), Amelia Urry (au255), Sofia Dartnell (skpd2)<br>
+Sofia (skpd2)<br>
 Look for WhatsApp group in Darwin Community
 </details>
 
@@ -262,18 +258,6 @@ Instagram: @darwin_cuban_salsa <br>
 <br>
   <a ref="https://www.facebook.com/groups/459033982106186/">Facebook</a><br>
 </details>
-
-
-<!-- Dipping Club -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Dipping Club </b></summary>
-
-<br><br>
-
-<strong>Contact:</strong><br>
-<br>
-</details>
-
 
 <!-- Drink and Draw -->
 <details align="justify" style="text-align:justify">
