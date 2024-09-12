@@ -784,9 +784,9 @@ science pub quizzes, lively debates to movie nights and much more... Nonscience 
 <a href="https://www.facebook.com/darscisoc">Facebook</a> <br>
 </details>
 
-<!-- Waterpolo -->
+<!-- Water Polo -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Waterpolo</b></summary>
+  <summary><b>Water Polo</b></summary>
 
 <!-- NB: insert image -->
 We play waterpolo jointly with Queens, training once a week and playing (winning) college league once a term. All ability and genders welcome. PS: there are no horses involved...
