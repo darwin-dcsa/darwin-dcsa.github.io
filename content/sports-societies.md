@@ -248,21 +248,18 @@ Jon (jjw29) and Kalid (ku230)
 
 <!-- Football (Women's) -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Football (Women's) </b></summary>
+  <summary><b>Football (Women's and NB's) </b></summary>
 
 <!-- NB: insert image -->
-Women’s football at Darwin is a vibrant and inclusive community of enthusiastic people. We have a recent history of being a strong team and are eager to involve more players, whether you are just developing an interest in football or have played extensively in the past. Reach out to us if you would like to drop in for a training/match and see if you like it!
+Women’s and NB's football at Darwin is a vibrant and inclusive community of enthusiastic people. We have a recent history of being a strong team and are eager to involve more players, whether you are just developing an interest in football or have played extensively in the past. Reach out to us if you would like to drop in for a training/match and see if you like it!
 <br><br>
 Our team is a multi-college team that combines players from Darwin, St. Edmunds, and Wolfson (hence the commonly used abbreviation DEW FC). We regularly visit the grounds of all three colleges for trainings or socials, which is a great way to get to know these colleges and their members. We also have close ties to the Darwin men’s team and the two teams enjoy showing up to support each other at matches throughout the season.
 <br><br>
 We play in the inter-college women’s football league throughout Michaelmas, Lent, and Easter term in addition to the annual Cuppers tournament. We also have the occasional friendly match on weeks where a league game is not scheduled. Finally, throughout the summer, spontaneous kick-abouts keep us connected to each other and the sport!
 <br><br>
-Current training schedule: <br>
-Training- Monday & Thursday<br>
-Matches- Saturday (variable) <br>
-<br><br>
+
 <strong>Contact:</strong> <br>
-Blanca Piera Pi-Sunyer, bp451<br>
+Bianca (bp551), Daniela (ds936)<br>
 <br><br>
 <strong>Social Media:</strong> <br>
 <a href="https://www.instagram.com/d.e.w.f.c/">Instagram</a><br>
