@@ -130,6 +130,15 @@ and constructive discussion about all climate-related matters.
 <strong>Contact:</strong> Sarah (sm2651)<br>
 </details>
 
+<!-- Climate SynBio Society-->
+<details align="justify" style="text-align:justify">
+  <summary><b>Climate SynBio Society </b></summary>
+
+Interested in synthetic bio and biotech research to address climate change? We're creating a space  for  people  who  are  interested in applying biosciences (and other sciences) to the climate challenge. This could be  all the way from designing  enzymatic carbon capture, to engineering cops with better drought resistance, to hydrogen-producing bacteria and beyond.  Anything that can either reduce climate impacts of help us live with the consequences. We organise seminars with guest speakers  to share their research with us, and of course have fun socials too. <br>
+
+<strong>Contact:</strong> Gabrielle (ga457)<br>
+
+</details>
 
 <!-- Climbing -->
 <details align="justify" style="text-align:justify">
@@ -581,7 +590,7 @@ Chiara Toschi, ct452<br>
 <br>
 If there’s a club/society not listed here,  not to worry - you can start it! To found a new club/society you need to have a President and a Treasurer, and 15 Darwin students need to sign up. Then, you can apply for funding from the DCSA Treasurer.  
 <br><br>
-Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Jonathan (dcsa_treasurer@darwin.cam.ac.uk) or Callum (dcsa_sports@darwin.cam.ac.uk)
+Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Masha (dcsa_treasurer@darwin.cam.ac.uk) or Gratsiela and Laura (dcsa_sports@darwin.cam.ac.uk)
 <br>
 
 <!-- APES -->
