@@ -216,13 +216,14 @@ Darwinians: £3.
 
 <!-- NB: insert image -->
 
-Drink and Draw is a casual arts and crafts society of the college. Everybody is welcomed, especially those traumatised by school art classes. We mostly meet up in DarBar to doodle and gossip together, but we also organise occasional day-time workshops. The point is to enjoy the process and do something with our hands after stressful days at labs/libraries/behind monitors. Artistic worth and ambition is passively discouraged, but tolerated. Normally we would meet in Darbar between 9pm and 12pm every Wednesday, but until we can meet indoors again, we will be bringing our drinks and art supplies to the Darwin gardens or make trips out around Cambridge - follow our Facebook page for updates (“DarwinDrinkAndDraw”) or email us.
+Drink and Draw is a casual arts and crafts society. We meet in DarBar at 9pm on Wednesdays to doodle and gossip together,
+but we also organise occasional daytime workshops. Everyone is welcome irrespective of artistic talent! The point is to enjoy the
+process and do something with our hands after stressful days at labs/libraries/behind monitors. Each week we pick a new theme
+or style to try, such as still life, pot painting, clay sculpting, marbling and many more. The club is free to attend, requires no ongoing commitment, and you can join at any point in the evening. Guests are also welcome.
 <br><br>
 
-<strong>Contact:</strong><br>
-Melanie Whitfield, mjw218<br>
-James Luis, jjdl3<br>
-<a href="https://www.facebook.com/groups/640366466105667/">Facebook</a><br>
+<strong>Contact:</strong> Beccy (rm994)
+<br><a href="https://www.facebook.com/groups/640366466105667/">Facebook</a><br>
 </details>
 
   
