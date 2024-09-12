@@ -210,39 +210,6 @@ Darwinians: £3.
 </details>
 
 
-<!-- Cycling Club -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Cycling Club </b></summary>
-  We are the DCCC; an inclusive and Darwin
- (and Friends) cycling community!!! We
- run a bunch of different activities from
- group rides to cycle socials! As part of
- the DCCC, you’ll have the opportunity to:<br>
- 1. explore Cambridgeshire together
- in a social and safe environment
- (regular within-week rides and joint
- weekend trips) <br>
-  2. compete within (fun competitions,
- leaderboards etc.) and outside of
- Darwin College (e.g., with other
- colleges)<br>
- 3. learn how to ride safely and to make
- sure you bike is properly maintained
- (e.g., bike maintenance workshops,
- routes, general training advice etc.)<br>
- 4. get together with fellow cyclists for
- a coffee or drink and enjoy being
- part of a community of like minded
- people!
-<br><br>
-
-<strong>Contact:</strong><br>
-  Jana Strauss, jls202<br>
-  James Kinch, jik30
-<br>
-  <a ref="https://www.facebook.com/groups/459033982106186/">Facebook</a><br>
-</details>
-
 <!-- Drink and Draw -->
 <details align="justify" style="text-align:justify">
   <summary><b>Drink and Draw</b></summary>
@@ -587,7 +554,7 @@ Some clubs we have previously offered are also looking for volunteers to help le
 <div class="societies--image-container">
 <img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]"/>
 </div>
-
+<br>
 The Animal, Plant and Environment Society (APES) is an informal, fun and inclusive group who enjoy spending time outside in the natural environment. The troop leaders will plan activities to interact with nature in the local area, including tours of local nature reserves, birdwatching, kayak outings, vounteering and day trips. Bananas will be provided.
 <br><br>
 </details>
@@ -628,6 +595,36 @@ A society for all those interested in chess at Darwin College. We have weekly ch
 <a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
 <a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
 </details>
+
+<!-- Cycling Club -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Cycling Club </b></summary>
+  We are the DCCC; an inclusive and Darwin
+ (and Friends) cycling community!!! We
+ run a bunch of different activities from
+ group rides to cycle socials! As part of
+ the DCCC, you’ll have the opportunity to:<br>
+ 1. explore Cambridgeshire together
+ in a social and safe environment
+ (regular within-week rides and joint
+ weekend trips) <br>
+  2. compete within (fun competitions,
+ leaderboards etc.) and outside of
+ Darwin College (e.g., with other
+ colleges)<br>
+ 3. learn how to ride safely and to make
+ sure you bike is properly maintained
+ (e.g., bike maintenance workshops,
+ routes, general training advice etc.)<br>
+ 4. get together with fellow cyclists for
+ a coffee or drink and enjoy being
+ part of a community of like minded
+ people!
+<br><br>
+
+  <a ref="https://www.facebook.com/groups/459033982106186/">Facebook</a><br>
+</details>
+
 <!-- Families Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Families Society </b></summary>
