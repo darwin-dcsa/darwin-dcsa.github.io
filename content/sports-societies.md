@@ -113,18 +113,7 @@ In 2021, the College has relaunched the college choir, meeting regularly each Tu
 <br><a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
 </details>
 
-<!-- Chess -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Chess Club </b></summary>
 
-A society for all those interested in chess at Darwin College. We have weekly chess sessions, chess theory discussion groups and other events throughout the year.
-<br><br>
-
-<strong>Contact:</strong> <br>
-Toby Brann, tb708</br>
-       
-<a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
-<a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
 </details>
 
 <!-- Climate -->
@@ -631,6 +620,16 @@ Aerial Arts are a great way to improve strength, flexibility and overall fitness
 Gears looking orange? Brakes failing? Flat tyre? Do you feel like you're taking your life into your own hands every time you hit the road on your bike? Sign up for the Bike Repair club, and get access to all the tools you'll need to keep a bike in working order around Cambridge! We run the occasional masterclass, so no previous experience is necessary. Find us at the Sports and Societies Fair!
 <br>
 </details>
+
+<!-- Chess -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Chess Club </b></summary>
+
+A society for all those interested in chess at Darwin College. We have weekly chess sessions, chess theory discussion groups and other events throughout the year.
+<br><br>
+       
+<a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
+<a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
 
 <!-- Families Society -->
 <details align="justify" style="text-align:justify">
