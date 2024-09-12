@@ -226,17 +226,6 @@ or style to try, such as still life, pot painting, clay sculpting, marbling and 
 <br><a href="https://www.facebook.com/groups/640366466105667/">Facebook</a><br>
 </details>
 
-  
-<!-- Entrepreneurs Club -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Entrepreneurs Club </b></summary>
-
-<br><br>
-
-<strong>Contact:</strong><br>
-<br>
-</details>
-
 
 <!-- Football (Men's)-->
 <details align="justify" style="text-align:justify">
