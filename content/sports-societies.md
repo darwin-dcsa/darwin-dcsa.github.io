@@ -246,22 +246,14 @@ or style to try, such as still life, pot painting, clay sculpting, marbling and 
 <img src="{{site.baseurl | absolute_url}}/images/Societies/footballmen.jpg" alt="[Football (men)]"/>
 </div>
 
-The beautiful game comes to Darwin!
-<br><br>
-Join Chrisopher Bower and his merry band of ballers for another season of the irresistible odyssey that is the Cambridge College football league. Whether you would like to train casually, dive into two footers on the medieval battlefields otherwise known as JCR playing fields, or even brandish some yellow cards under maverick interpretations of the Football Association’s Laws of the Game, Darwin F.C. will have something for you.
-<br><br>
-With (sporadically) floodlit facilities to rival St. Georges Park, training takes place on Wednesday’s from 8pm-10pm at Cambridge’s finest footballing campus - the CASS leisure center - a momentary cycle from the main college site. League AND cup matches are 11 a side and take place at weekends, normally followed by socials consisting of the watery nectar provided by the Darwin Bar.
-<br><br>
-Please don’t be shy, all abilities are welcome (some of the starting 11 are testament to the idea that you don’t need to be technically gifted to play for DFC…)!
-<br><br>
-Email Captain Chris (cab237) with Vice Captain/honorary kitman Kalid (ku230) cc’d for more details!
-<br><br>
-We welcome everyone regardless of playing ability; whether you are a seasoned veteran, an occasional player looking to rekindle your career or a total rookie, Darwin College FC is the place for you! Sign up at the freshers’ fair or get in touch via Facebook or email, and be on the lookout for details of training and matches starting in October.
-<br><br>
+Football (Men's)
+Welcome to Darwin College Men’s FC, your new home of football! The college has one men’s team, playing in the Cambridge
+University JCR league, and we also enter into one of the world’s oldest cup competitions. After two Covid disrupted seasons, the team won promotion last year to secure a coveted place on the DarBar wall. We welcome everyone regardless of playing ability; whether you are a seasoned veteran, an occasional player looking to rekindle your career, or a total rookie, Darwin College FC is the place for you! Sign up at the freshers’ fair or get in touch via Facebook or email, and be on the lookout for details of training, matches and most importantly, socials, starting in October.
+
 
 <strong>Contact:</strong> <br>
-Christopher Bower, cab237<br>
-Kalid Ulas, ku230<br>
+Jon (jjw29) and Kalid (ku230)
+
 </details>
 
 
