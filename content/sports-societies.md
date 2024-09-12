@@ -284,29 +284,6 @@ you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit! 
 <br> Instagram: darwin.gardening.society
 </details>
 
-
-<!-- Green Hub -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Green Hub </b></summary>
-
-<!-- NB: insert image -->
-
-Welcome to the DCSA Green Committee - let's make Darwin a greener College, with an ambitious agenda towards sustainable practices!
-<br><br>
-Our group gets together regularly to organise events which promote environmental and ethical sustainability in College. We also support and push
-College authorities as they incorporate sustainability. Thanks to the Green Committee, food waste bins are now available in every kitchen, and we've
-installed several water refill stations around college. Join us and contribute
-to one of our current initiatives, or bring in fresh ideas. Everyone's welcome!
-Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer.
-<br><br>
-
-<strong>Contact:</strong><br>
-Conor Cooper<br>
-dcsa_green AT darwin DOT cam DOT ac DOT uk<br>
-<a href="https://www.facebook.com/greendarwincollege">Facebook</a>
-</details>
-
-
 <!-- LGBTQ+ -->
 <details align="justify" style="text-align:justify">
   <summary><b>LGBTQ+</b></summary>
@@ -643,6 +620,23 @@ Do you enjoy games of skill, deception, luck, or dexterity? Join the Darwin Coll
 <br>
 </details>
 
+<!-- Green Hub -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Green Hub </b></summary>
+
+<!-- NB: insert image -->
+
+Welcome to the DCSA Green Committee - let's make Darwin a greener College, with an ambitious agenda towards sustainable practices!
+<br><br>
+Our group gets together regularly to organise events which promote environmental and ethical sustainability in College. We also support and push
+College authorities as they incorporate sustainability. Thanks to the Green Committee, food waste bins are now available in every kitchen, and we've
+installed several water refill stations around college. Join us and contribute
+to one of our current initiatives, or bring in fresh ideas. Everyone's welcome!
+Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer.
+<br><br>
+
+<a href="https://www.facebook.com/greendarwincollege">Facebook</a>
+</details>
 
 <!-- Kizomba-->
 <details align="justify" style="text-align:justify">
