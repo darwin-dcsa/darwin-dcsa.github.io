@@ -529,6 +529,7 @@ Find us in the Darwin Whatsapp Community <br>
 
 Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page for updates.
 <br><br>
+</details>
 <!-- Yoga -->
 <details align="justify" style="text-align:justify">
   <summary><b>Yoga </b></summary>
@@ -630,7 +631,7 @@ A society for all those interested in chess at Darwin College. We have weekly ch
        
 <a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
 <a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
-
+</details>
 <!-- Families Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Families Society </b></summary>
@@ -798,6 +799,6 @@ science pub quizzes, lively debates to movie nights and much more... Nonscience 
   <summary><b>Water Polo</b></summary>
 
 <!-- NB: insert image -->
-We play waterpolo jointly with Queens, training once a week and playing (winning) college league once a term. All ability and genders welcome. PS: there are no horses involved...
+We play water polo jointly with Queens, training once a week and playing (winning) college league once a term. All ability and genders welcome. PS: there are no horses involved...
 <br><br>
 </details>
