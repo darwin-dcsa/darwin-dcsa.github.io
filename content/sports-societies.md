@@ -112,17 +112,6 @@ In 2021, the College has relaunched the college choir, meeting regularly each Tu
 <strong>Contact:</strong> <br>Siggi (sm2237)
 </details>
 
-<!-- Cheese and Wine Society-->
-<details align="justify" style="text-align:justify">
-<summary><b>Cheese and Wine Society </b></summary>
-
-<div class="societies--image-container">
-<img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]"/>
-</div>
-
-Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page for updates.
-<br><br>
-
 <strong>Contact:</strong> <br>
 Robert Pinsler, rp586<br>
 <a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
@@ -194,11 +183,11 @@ Join our mailing list<br>
 <img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]"/>
 </div>
 
-Darwin College Cricket Club (DC3) is a friendly and welcoming sports club whose primary focus is not about winning, but on making sure that as many Darwinians as possible are introduced to the sport, and get a chance to play it competititvely in the Cuppers and the MCR league (usually around April to June). DC3 has a history of being as old as the college itself, although the club was inactive during some intervals. We are the defending champions of the MCR Cricket League in 2008-9 and 2010-11, reaching the finals in 2009-10, thus, being runners up many times throughout the years.
+Darwin College Cricket Club (DC3) is a friendly and welcoming sports club whose primary focus is not about winning, but on  making sure that as many Darwinians as possible are introduced to the sport, and get a chance to play it competitively in the  Cuppers and the MCR league. DC3 has a history of being as old as the college  itself, although the club was inactive during some intervals. We welcome players of all abilities, from absolute novices to seasoned veterans. DC3 also organises entertainment and fun activities throughout the year including a termly traditional cricket tea with scones, jam & cream. If you are keen to know more about cricket at Darwin (or want to settle the scone-rivalry), please come and join us!
 <br><br>
 
 <strong>Contact:</strong><br>
-Maroof Rafique (mr928), David Seager (ds993)<br>
+David (ds993), George (gc681)<br>
 <a href="https://chat.whatsapp.com/L1GNN5gXesj03dbWaedmA9">WhatsApp</a><br>
 <a href="https://instagram.com/darwin_college_cricket_club?igshid=OGQ5ZDc2ODk2ZA">Instagram</a><br>
 </details>
@@ -531,7 +520,16 @@ Find us in the Darwin Whatsapp Community <br>
 <strong>Contact:</strong><br>
 <br>
 </details>
+<!-- Wine and Cheese Society-->
+<details align="justify" style="text-align:justify">
+<summary><b>Wine and Cheese Society </b></summary>
 
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]"/>
+</div>
+
+Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page for updates.
+<br><br>
 <!-- Yoga -->
 <details align="justify" style="text-align:justify">
   <summary><b>Yoga </b></summary>
@@ -560,7 +558,6 @@ Find us on Facebook for more information.
 Cristina Jauset, cj389<br>
 <a href="https://www.facebook.com/groups/darwincollegeyoga/">Facebook</a><br>
 </details>
-
 
 <!-- Zumba -->
 <details align="justify" style="text-align:justify">
