@@ -276,16 +276,12 @@ Find us in the Darwin Whatsapp Community <br>
 <img src="{{site.baseurl | absolute_url}}/images/Societies/gardening.png" alt="[Gardening]"/>
 </div>
 
-DarGar is the Darwin College student vegetable garden. This little green oasis is cultivated by Darwin college members, usually meeting every Sunday at 4pm. Whether you're a seasoned gardener or a complete beginner, you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit! 
-<br><br> 
-But DarGar is not just about growing - it's about eating too! In the summer months, you'll be able to pick your favourites or try new fruit / veg. In October we press the apples from the Darwin trees to make apple juice and cider. Over the winter we still meet up, often to make delicious dishes from food bought at the local farmers' market.
-<br><br>
-If you're interested in getting involved then head along to our facebook page.
+Darwin college members, usually meeting every Sunday at 4pm. Whether you're a seasoned gardener or a complete beginner,
+you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit! But DarGar is not just about growing - it's about eating too! In the summer months, you'll be able to pick your favourites or try new fruit/veg. In October we collect the apples and pears from the Darwin trees to make juices and chutneys. Over the winter we still meet up, often to make delicious dishes from food bought at the local farmers' market.
 <br>
 
-<strong>contact:</strong> <br>
-<a href="https://www.facebook.com/groups/433280126714069/">Facebook</a>
-<br><br>
+<strong>contact:</strong> Jana (js711)<br>
+<br> Instagram: darwin.gardening.society
 </details>
 
 
