@@ -113,10 +113,7 @@ In 2021, the College has relaunched the college choir, meeting regularly each Tu
 <br><a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
 </details>
 
-
-</details>
-
-<!-- Climate -->
+<!-- Climate Club-->
 <details align="justify" style="text-align:justify">
   <summary><b>Climate Club </b></summary>
 
@@ -182,7 +179,6 @@ Join our mailing list<br>
 <br><br>
 </details>
 
-
 <!-- Cricket Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cricket Club </b></summary>
@@ -206,20 +202,11 @@ David (ds993), George (gc681)<br>
   <summary><b>Cuban Salsa </b></summary>
 
 <!-- NB: insert image -->
-Hello Darwinians! We are the Cuban Salsa Society and we meet once per week to practice, socialise, meet new people and have fun! Our class is adapted to suit all levels – from complete beginners to advanced dancers, so don’t hesitate to join us, even if you have never tried dancing before! We promise to make you fall in love with Cuban Salsa!
-<br><br>
-Darwin members £1<br>
-Everyone else: £3<br>
-For any queries, reach out to Aristi Damaskou (ad971). Also, make sure to follow us on facebook for more info about the classes. We can’t wait to see you on board!
-<br><br>
+Hello Darwinians! We are the Cuban Salsa Society and we meet once per week to practice, socialise, meet new people and have fun! Our class is adapted to suit all levels – from complete beginners to advanced dancers, so don’t hesitate to join us, even if you have never tried dancing before! We promise to make you fall in love with Cuban Salsa! <br>Fee: Darwinians £1, <br>Non-
+Darwinians: £3.
 
-<strong>Contact:</strong><br>
-Aristi Damaskou, ad971<br>
-Yasmeen Butt, ycsb2<br>
-Laura Magnani, lm2011<br>
-Andres Alfonso Rojas, afa38<br>
-Instagram: @darwin_cuban_salsa <br>
-<a href="https://www.facebook.com/groups/866672656814002/">Facebook</a><br>
+<strong>Contact:</strong> Yasmeen (ycsb2)
+<br>Instagram: @darwin_cuban_salsa
 </details>
 
 
