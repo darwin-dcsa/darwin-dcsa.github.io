@@ -110,11 +110,7 @@ Facebook: DarwinCollegeBoatClub<br>
 In 2021, the College has relaunched the college choir, meeting regularly each Tuesday at 1800 in the Bradfield Room. Our new  director, Francis  Knights, has put together a  wonderful  programme of very  accesible English Church Music spanning 900 years  and including pieces by Tallis,  Purcell and Charles Wood, and we would love more singers to join us! The choir is run by the college and not through the DCSA.The choir is open to individuals of all abilities and from throughout the Cambridge     community and the music is VERY accessible. You don't have to be a Darwin  member, so spouses, significant others, partners, and friends are all welcome. Our rehearsals are fun, rewarding, and take place in a very friendly, welcoming environment. Do come along to de-stress from the pressures of work and help support our emerging musical community. 
 <br><br>
 <strong>Contact:</strong> <br>Siggi (sm2237)
-</details>
-
-<strong>Contact:</strong> <br>
-Robert Pinsler, rp586<br>
-<a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
+<br><a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
 </details>
 
 <!-- Chess -->
