@@ -152,11 +152,11 @@ Interested in synthetic bio and biotech research to address climate change? We'r
 <img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]"/>
 </div>
 
-We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over Whatsapp or or via our mailing list. We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
+We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an  indoor bouldering session at  one of the  two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the  occasional outdoor trip further north or abroad when the weather/season permits. We organise everything  over WhatsApp or over a pint  at  DarBar or check out  what we are up to on Facebook “Darwin College Climbing Club”.  We have  bouldering  mats, a trad  rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor)
 <br><br>
 
 <strong>Contact:</strong> <br>
-Gavin Summers, grs50<br>
+Kevin (kchl2)<br>
 <a href="https://chat.whatsapp.com/CQijXL9MgINJcFVZSgLJU2">WhatsApp</a><br>
 </details>
 
