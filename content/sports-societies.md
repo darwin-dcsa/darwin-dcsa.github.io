@@ -22,6 +22,7 @@ Our club welcomes players of all standards, from complete beginners to experienc
 
 WhatsApp: Access via Community Page
 
+
 <strong>Contact:</strong> Kaizhong (kx232)
 <br><br>
 </details>
@@ -35,12 +36,9 @@ WhatsApp: Access via Community Page
 <img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]"/>
 </div>
 
-Basketball has a long and successful tradition at Darwin. We participate every year in two Cambridge University intercollegial competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers (Easter term), of which we are the defending champions since 2019! The season kicks off late September and ends around April, but we continue to practice throughout the summer months. We are a friendly and active bunch and always welcome new players at varying skill levels in our teams.<br><br>
-Practice: Tuesday 8-10 pm at North Cambridge Academy
+Darwin College has a proud and successful basketball tradition! Every year, we compete in two of Cambridge University's  intercollegiate competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers tournament  (Easter  term). We are the reigning champions in both competitions  and  are  eager  to  defend  our  titles this season!The season  officially runs from late  October to April,  but  our  commitment  to  basketball  doesn’t stop there. We continue to train once a week and play throughout the summer.Come join us, make new friends, and help us keep the winning tradition alive!<br><br>
+<strong>Contact:</strong> Xander (xprp2)
 <br><br>
-
-<strong>Contact:</strong> <br>
-Georgios Hadjidemetriou, gh444<br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 </details>
 
@@ -53,9 +51,9 @@ Georgios Hadjidemetriou, gh444<br>
 <img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]"/>
 </div>
 
-The Darwin Women’s Basketball Club is the college's most successful sports team having won the college league most years since its formation in May 2000. As well as the college league, the team competes in, and usually wins, the university-wide knock out 'Cuppers' tournament in Lent term. We are fortunate enough to have a dedicated basketball coach who runs our training from early October so we are ready for competitive matches throughout the year. Over the summer we practice with friendly games every week, often joined by members of the university 1st and 2nd teams!<br><br>
-<strong>Contact:</strong> <br>
-Laura Pelligrini, lp563<br>
+The  Darwin  Women’s  Basketball  Club  is  the  college's  most  successful  sports  team,  and  THE   most   successful   women’s   basketball   team   in   the   university,   having   won   the   college league most years since its formation in  May  2000.  We  are  fortunate  enough  to  have a dedicated basketball coach, Dan, who runs  our  training  all  year  round  so  we  can  improve our skills and truly enjoy the game of basketball.  We  practice  with  friendly  games,  often  joined  by  members  of  the  university  1st and 2nd teams! No matter what your skill level, beginner or player for many years, you are welcome on our team!We practice every Sunday 6:15pm to 8:15pm at  Coleridge  Community  College.  
+<br><br>
+<strong>Contact:</strong> <br> Elsa (el556)<br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 <a href="https://darwinbasketball.wordpress.com/about/">Website</a><br>
 </details>
@@ -84,19 +82,22 @@ Look for WhatsApp group in Darwin Community
 
 <!-- NB: insert image -->
 
-Darwin College Boat Club (DCBC) is the largest society in Darwin, dedicated to all things rowing! We are one of the most successful graduate boat clubs in Cambridge - just check out the blades in the bar for our previous accomplishments! We are, above all, a friendly, social, and welcoming family. Rowing is a Cambridge tradition, and it is almost impossible to avoid at least one conversation about it during your time here. At DCBC, we believe that everyone should have a go, and encourage anyone to come try out, at least so you can decipher the jargon of the sport!
+Darwin   College   Boat   Club   (DCBC)   is   the   largest    society    in    Darwin,    dedicated    to    all  things  rowing!  We  are  one  of  the  most  successful graduate boat clubs in Cambridge - just check out the blades in the bar for our previous   accomplishments!   We   are,   above   all,  a  friendly,  social,  and  welcoming  family.  Rowing   is   a   Cambridge   tradition,   and   it   is  almost  impossible  to  avoid  at  least  one  conversation about it during your time here. At  DCBC,  we  believe  that  everyone  should  have a go, and encourage anyone to come try out,  at  least  so  you  can  decipher  the  jargon  of   the   sport!   We   train   year-round   (winter   and  summer)  and  participate  in  numerous  races   both   in   Cambridge   and   outside   of   Cambridge. 
 <br><br>
-We train year-round (winter and summer) and participate in numerous races both in Cambridge and outside of Cambridge. The main events in our calendar include Lent (in March) and May (in June - don’t ask) Bumps. May Bumps is one of the highest-profile events in the Cambridge calendar, with thousands of people lining the banks over 4 afternoons to watch boats speed down the Cam, attempting to physically crash into one another (a Bump), while avoiding being hit by the crew behind (getting bumped). If you’re not in a boat, you can get the second most enjoyment out of the days by sitting on the banks with your refreshments of choice, and cheering Darwin to victory! We are fortunate enough to enter multiple boats into each Bumps race, so join up to experience the carnage first-hand! 
+In   August   2024,   Darwin   was   invited   to   compete at an international Regatta in South Korea alongside world leading rowing teams. The   main   events   in   our   calendar   include   Lent (in March) and May (in June - don’t ask) Bumps.  May  Bumps  is  one  of  the  highest-profile  events  in  the  Cambridge  calendar,  with  thousands  of  people  lining  the  banks  over 4 afternoons to watch boats speed down the Cam, attempting to physically crash into one  another  (a  Bump),  while  avoiding  being  hit  by  the  crew  behind  (getting  bumped).  If  you’re not in a boat, you can get the second most enjoyment out of the days by sitting on the  banks  with  your  refreshments  of  choice,  and cheering Darwin to victory! 
 <br><br>
-We welcome all levels of rowing - from those who don’t know what a boat looks like or have never used a rowing machine (erg), to future Olympic hopefuls, and anything in between. We hold taster sessions for both rowers and coxes (person in the front of the boat making the rowing calls and steering the boat). Whichever you feel suits you, you’ll get full coaching and training by our senior club members and experienced coaches. Try a few water sessions (outings) at the beginning of Michaelmas, and with the other novice rowers, you’ll slowly become unstoppable forces of nature, ready to slay the competition out on the river. There are plenty of opportunities  for novices to take part in racing in  Michaelmas term where you will have  the chance to dress-up and race against  other colleges. Novice races are fun and  light-hearted, culminating the term with  the not-to-be-missed Boat Club Dinner,  a chance to regale the Club with your  war stories from the term, and just blow  off some steam. 
+We  are  fortunate  enough  to  enter  multiple  boats   into   each   Bumps   race,   so   join   up   to   experience   the   carnage   first-hand!   We   welcome  all  levels  of  rowing  -  from  those  who  don’t  know  what  a  boat  looks  like  or  have  never  used  a  rowing  machine  (erg),  to  future   Olympic   hopefuls,   and   anything   in   between.  We  hold  taster sessions for both rowers and coxes (person in the front  of the boat making the rowing  calls and steering the boat). Whichever you feel suits you, you’ll get full coaching and training by our senior club members and experienced coaches. 
 <br><br>
-Rowing is teamwork at its peak. From  our strong tan lines in the summer, our  matching kit (free speed), the laughs, the  sweat, and the shared exquisite pain, you  will come away with some of the closest  Darwin friendships and bonds that will  be everlasting. Come and chat to us to  find out more at the Fresher’s Sports and  Societies Fair, and even get started and  have a go on the erg!
+Try a few water sessions (outings) at the beginning of Michaelmas, and with the other novice rowers, you’ll slowly become unstoppable forces of nature, ready to slay the competition out on the river. There are plenty of opportunities for novices to take part in racing in Michaelmas term where you will have the chance to dress-up and race against other colleges. Novice races are  fun and light-hearted, culminating the term with the not-to-be-missed Boat Club Dinner, a chance to regale the Club with your war stories from the term, and just blow off some steam. Rowing is teamwork at its peak. From our strong tan lines in the summer, our matching kit (free speed), the laughs, the sweat, and the shared exquisite  pain, you will come away with some of the closest Darwin  friendships and bonds that will be  everlasting. 
+<br><br>
+Come and chat to us to find out more at the Fresher’s  Sports  and  Societies  Fair,  and  even  get started and have a go on the erg!
+<br><strong>Contact:</strong> <br>
+Both Captains: darwin.captain@cucbc.org<br>
+Samantha: darwin.women@cucbc.org<br>
+Ben: darwin.men@cucbc.org <br>
+Instagram: @darwincollegeboatclub <br>
+Facebook: DarwinCollegeBoatClub<br>
   <br><br>
-
-<strong>Contact:</strong> <br>
-Poppy Oldroyd, darwin.captain@cucbc.org<br>
-Leah Rosen, darwin.women@cucbc.org<br>
-Sheila Bhatt, darwin.men@cucbc.org<br>
 <a href="https://www.facebook.com/DarwinCollegeBoatClub/">Facebook</a><br>
 </details>
 
