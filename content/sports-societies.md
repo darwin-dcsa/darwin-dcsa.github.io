@@ -355,10 +355,8 @@ Callum, dcsa_punts@darwin.cam.ac.uk<br>
 
 A group for organizing Darwin's quizzing activities, from the termly darQuiz to the University Challenge team.
 <br><br>
-<strong>Contact:</strong> Jon ((jiw29))<br>
+<strong>Contact:</strong> Jon (jiw29)<br>
 </details>
-
-
 
 <!-- Rugby -->
 <details align="justify" style="text-align:justify">
