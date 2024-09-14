@@ -314,36 +314,14 @@ dcsa_lgbtq@darwin.cam.ac.uk<br>
 
 <!-- NB: insert image -->
 
-The Darwin College Music Society (DCMS) hosts musical activities and events and maintains facilities for music practice here at Darwin. If you're interested in music at all, whether you want to perform, watch performances, meet other musicians, or just practice on your own, we hope you can get involved!
+The purpose of Darwin College Music Society (DCMS) is to foster music practice, performance and appreciation at Darwin. We organise music-related events at Darwin, maintain the music practice room, and are generally a social place for anyone interested in music. We host low-pressure weekly jam sessions where musicians of all backgrounds can meet and play together. We also put on events like open mics, karaoke nights, band showcases as well as set up music equipment for BOPs and Balls. Several bands have formed out of the DCMS have gone on to gig at May Balls, venues around town, and beyond. Whether you're looking to start a band, practice by yourself or just receive updates about music events at Darwin, we invite you to sign up and keep in touch!
 <br><br>
-Every year, we host multiple open mics, karaoke nights, and live music events. We host a weekly open-ended jam session every Wednesday at 8 p.m. during term, where musicians of all backgrounds are invited to meet one another and play music. We also have a choir which sings classical and medieval music.
-<br><br>
-Our music facilities are available for group and individual practice. For more information, see the <a href="{{site.baseurl | absolute_url}}facilities">music section of the facilities page</a>.
-<br><br>
-Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. Don't hesitate to contact the committee with any queries at dcms_committee AT darwin.cam.ac.uk.
+Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. Don't hesitate to contact the committee with any queries at dcms_committee@darwin.cam.ac.uk.
 <br><br>
 
 <strong>Contact:</strong> <br>
-Julius Cheng (President), jncc3<br>
-Ashley Masing (Treasurer), alm205<br>
-Tammas Slater (Choir), ts789<br>
+David (do374)
 </details>
-
-
-<!-- Pool Table-->
-<details align="justify" style="text-align:justify">
-  <summary><b>Pool Table </b></summary>
-
-<!-- NB: insert image -->
-
-Darwin College Pool table Society DCPTS is one of the current societies of the College. The society has access to one pool table in the common room; it has 2 cues, one set of yellow and red balls (English balls), it also has equipment to change cue tips. The society also owns a box to keep the coins (50p) so the members do not have to pay for training. Training is mostly once a week but occasionally more. There is also a Facebook group which can be used by all members as well as other students who want to come and join the members, or those who get invited by members. The Facebook group has been an only way to get in touch with the members and let them know about the date and time of the training sessions as well as other activities. The society has ambitions to host a tournament for members and guests, though this may be Covid dependent. Furthermore, with enough members the society hopes to join the university league.
-<br><br>
-
-<strong>Contact:</strong> <br>
-Rebwar R Salih, rrs38<br>
-<a href="https://www.facebook.com/groups/591661935016226/">Facebook</a><br>
-</details>
-
 
 <!-- Punt Club -->
 <details align="justify" style="text-align:justify">
@@ -725,6 +703,18 @@ Darwin Photo Society exists to promote digital and film photography. We have an 
 The Photo Society is looking for a President and a Treasurer. 
 <br>
 
+</details>
+
+<!-- Pool Table-->
+<details align="justify" style="text-align:justify">
+  <summary><b>Pool Table </b></summary>
+
+<!-- NB: insert image -->
+
+Darwin College Pool table Society DCPTS is one of the current societies of the College. The society has access to one pool table in the common room; it has 2 cues, one set of yellow and red balls (English balls), it also has equipment to change cue tips. The society also owns a box to keep the coins (50p) so the members do not have to pay for training. Training is mostly once a week but occasionally more. There is also a Facebook group which can be used by all members as well as other students who want to come and join the members, or those who get invited by members. The Facebook group has been an only way to get in touch with the members and let them know about the date and time of the training sessions as well as other activities. The society has ambitions to host a tournament for members and guests, though this may be Covid dependent. Furthermore, with enough members the society hopes to join the university league.
+<br><br>
+
+<a href="https://www.facebook.com/groups/591661935016226/">Facebook</a><br>
 </details>
 
 <!-- Robotics and Raspberry Pi -->
