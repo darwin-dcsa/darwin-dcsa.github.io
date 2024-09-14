@@ -293,20 +293,18 @@ you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit! 
 </div>
 
 
-Darwin's LGBTQ+ community has regular meet-ups where we do an assortment of activities like arts & crafts, but most often just a simple chat with your friends with drinks and snacks provided. The 'Darwin community only' events are intercalated with social swaps with communities from nearby colleges (bar nights, BBQs).
-<br><br>
-February is Cambridge's LGBTQ+ history month, with plenty of talks and events (like formal halls, bar crawls and club nights) organised by the Cambridge University Students' Union (join their <a href="https://lists.cam.ac.uk/
-mailman/listinfo/cusu-lgbt-listings">mailing list</a>) or the communities from various colleges.
-<br><br>
-That may seem like a while away, but do not fear, there's plenty of universitywide LGBTQ+ events during Freshers' week, including our very own LGBTQ+ Welcome Event.
-<br><br>
-For more information, get in touch with the DCSA's LGBTQ+ Officer or join our private facebook group to get notifications about the events.
+Darwin's LGBTQ+ community has regular
+meet-ups where we do an assortment of
+activities like arts & crafts, book clubs but
+most often just a simple chat with your friends
+with drinks and snacks provided. The 'Darwin community only' events are intercalated with social swaps with communities from
+nearby colleges (bar nights, BBQs). February is LGBTQ+ history month, with plenty of talks and events (like formal halls, bar
+crawls and club nights) organised by the Cambridge University Students' Union or the communities from various colleges. For more information, contact the DCSA's LGBTQ+ Officer, Alex, at dcsa_lgbtq@darwin.cam.ac.uk or ask Alex to add you to the private WhatsApp group to hear about upcoming events.
 <br><br>
 
-<strong>Contact:</strong> <br>
-Arthur Davis<br>
-dcsa_lgbtq AT darwin DOT cam DOT ac DOT uk<br>
-<a href="https://www.facebook.com/groups/116269439083460">Facebook</a><br>
+<strong>Contact:</strong> Alex<br>
+dcsa_lgbtq@darwin.cam.ac.uk<br>
+
 </details>
 
 
