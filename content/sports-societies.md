@@ -329,16 +329,18 @@ David (do374)
 
 <!-- NB: insert image -->
 
-Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. As a member of the punt club, you have unlimited access to all of the club‘s punts, kayaks, and the canoe for a year at roughly the price of a single trip with one of the commercial punting companies. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual punt race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. You can ask at the porters‘ lodge to join.
+Punting has a long tradition in Cambridge and is one of the highlights of what Darwin has to offer. As a member of the Punt Club,
+you have unlimited access to all of the club‘s punts, kayaks, paddle boards and the canoe at less than the price of a single trip with one of the commercial punting companies. <br>
+
+In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the the Halloween punting, outings to the Trinity and St John’s May Ball fireworks at night, and to see the King's and Trinity choirs singing on the river. We will also chauffeur you to some fancy formals, teach you about bats that live in the area around Grantchester or just have an enjoyable time in summer on a trip to the Grantchester orchard. If you are interested,please have a look at www.dcsa.darwin.cam.ac.uk/punts.
 <br><br>
 Booking information and other details can be found on the <a href="{{site.baseurl | absolute_url}}/facilities/">facilities page</a> in the Punting section.
 <br><br>
-If you have any other questions, please contact the Admiral
-of the Punts.
+If you have any other questions, please contact the Admiral of the Punts, Callum.
 <br><br>
 
 <strong>Contact:</strong> <br>
-Michael Schneider, dcsa_punts AT darwin DOT cam DOT ac DOT uk<br>
+Callum, dcsa_punts@darwin.cam.ac.uk<br>
 
 </details>
 
@@ -349,11 +351,9 @@ Michael Schneider, dcsa_punts AT darwin DOT cam DOT ac DOT uk<br>
 
 <!-- NB: insert image -->
 
-Calling current and former rugby players, rugby enthusiasts and curious sportspeople! The mature and graduate college rugby team (the All Greys) is recruiting for next season. Whether you are new to the game or have been playing for years, there is no better time to pick up a pair of rugby boots than during a World Cup! With regular games, socials throughout the year and a strong rugby tradition in the uni, do your Cambridge year right and chase an egg shaped ball with us. No membership fee required. If you are interested, please drop us a message.
+Whether you’ve never played rugby or have done since birth, whether you are here for 1 year, 3 years, or even more, whether you drink or don’t, we are an inclusive rugby team of mature undergraduates and postgraduates across 5 colleges. We have weekly intercollegiate matches, training sessions, and socials, including screenings of Six Nations and Champions Cup matches.
 <br><br>
-
-<strong>Contact:</strong> <br>
-Joshua Maynard, jmm244<br>
+<strong>Contact:</strong> Stefan (ssn34)<br>
 <a href="https://www.facebook.com/groups/HERUFC">Facebook</a><br>
 </details>
 
@@ -363,43 +363,40 @@ Joshua Maynard, jmm244<br>
   <summary><b>Running Club</b></summary>
 
 <!-- NB: insert image -->
-The Darwin College Running Club (DCRC) is a great community of people looking to enjoy the sights in and around Cambridge while enjoying fresh air and good company! We like to get out a few times a week for casual runs and tailor our regular sessions depending on the desires of the group. We encourage participation by runners of all abilities and often offer lead route variations to accommodate a variety of distances/paces. Typical runs during the week are around 5K while longer runs will happen on the weekend. Please get in contact with us if you would like to know more about our regular schedule and try out a run!
-<br><br>
-Members of our club often decide to try out one of the many annual races in Cambridge such as the Town & Gown 10K, Cambridge Half Marathon, the Boundary Run Half/Full Marathon, or the Chariots of Fire Relay. In the past we have also represented at races in London and beyond. As a club, we set up sessions so that we can train together towards these ambitious goals.
-<br><br>
+The Darwin College Running Club (DCRC) is a great community of people looking to enjoy the sights in and around Cambridge
+while enjoying fresh air and good company! We like to get out a few times a week for casual runs and tailor our regular sessions
+depending on the desires of the group. We encourage participation by runners of all abilities and often offer lead route variations to accommodate a variety of distances/paces. Please get in contact with us if you would like to know more about our regular schedule and try out a run! Members of our club often decide to try out one of the many annual races in Cambridge such as the Town & Gown 10K, Cambridge Half Marathon, the Boundary Run Half/Full Marathon, or the Chariots of Fire Relay. In the past we have also represented at races in London and beyond. As a club, we set up sessions so that we can train together towards these ambitious goals.
 
 <strong>Contact:</strong> <br>
-Leanne Milburn, lam219 <br>
 Chloe Patman, cep72 <br>
 <br>
-
 <strong>Social Media:</strong> <br>
 <a href="https://www.facebook.com/groups/DCRC2018/">Facebook</a><br>
 Find us in the Darwin Whatsapp Community <br>
 </details>
 
+<!-- Squash Club -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Squash Club </b></summary>
+
+Whether you are someone who's always wanted to try squash but never had the time/place or a seasoned player looking for
+competition, Darwin Squash is the place for you. We run taster sessions during the early part of Michaelmas, have weekly coached
+sessions during term time, and participate in the college leagues (Michaelmas and Lent) and Cuppers (Lent). And of course if you just want to play for fun, there's loads of club mates who are up for friendly games during the week. Come say hello and find out how to book courts and borrow equipment.
+<br><br>
+<strong>Contact:</strong> Rishi (mdh37)<br>
+</details>
 
 <!-- Swimming Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Swimming Club </b></summary>
 
+Darwin Swimming Club is a group of chill students of various levels who swim regularly in the pool at Parkside, Jesus Green Lido
+and Milton Country Park Lake. We swim both individually and as a group with the majority of the cost of sessions covered by the club. We also have fun post-swim socials; either to a café after a morning swim or a pub after an evening swim. This year we
+successfully competed in the inter-college Cuppers Competition and we hope to do the same again this year. Anyone of any level is welcome to join us regularly, or as a one off. See you in the water!
 <br><br>
-
-<strong>Contact:</strong><br>
+<strong>Contact:</strong> Jacob (jgp34)<br>
 <br>
 </details>
-
-
-<!-- Tennis -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Tennis </b></summary>
-
-<br><br>
-
-<strong>Contact:</strong><br>
-<br>
-</details>
-
 
 <!-- Ultimate Frisbee -->
 <details align="justify" style="text-align:justify">
@@ -742,6 +739,16 @@ science pub quizzes, lively debates to movie nights and much more... Nonscience 
 <br><br>
 
 <a href="https://www.facebook.com/darscisoc">Facebook</a> <br>
+</details>
+
+<!-- Tennis -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Tennis </b></summary>
+
+<br><br>
+
+<strong>Contact:</strong><br>
+<br>
 </details>
 
 <!-- Water Polo -->
