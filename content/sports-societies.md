@@ -80,7 +80,9 @@ Look for WhatsApp group in Darwin Community
 <details align="justify" style="text-align:justify">
   <summary><b>Boat Club </b></summary>
 
-<!-- NB: insert image -->
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/dcbc.jpg" alt="[Darwin College Boat Club]"/>
+</div>
 
 Darwin   College   Boat   Club   (DCBC)   is   the   largest    society    in    Darwin,    dedicated    to    all  things  rowing!  We  are  one  of  the  most  successful graduate boat clubs in Cambridge - just check out the blades in the bar for our previous   accomplishments!   We   are,   above   all,  a  friendly,  social,  and  welcoming  family.  Rowing   is   a   Cambridge   tradition,   and   it   is  almost  impossible  to  avoid  at  least  one  conversation about it during your time here. At  DCBC,  we  believe  that  everyone  should  have a go, and encourage anyone to come try out,  at  least  so  you  can  decipher  the  jargon  of   the   sport!   We   train   year-round   (winter   and  summer)  and  participate  in  numerous  races   both   in   Cambridge   and   outside   of   Cambridge. 
 <br><br>
