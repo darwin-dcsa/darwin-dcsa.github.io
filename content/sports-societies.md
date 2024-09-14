@@ -48,7 +48,7 @@ Darwin College has a proud and successful basketball tradition! Every year, we c
   <summary><b>Basketball Club (Women) </b></summary>
 
 <div class="societies--image-container">
-<img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]"/>
+<img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.jpg" alt="[Basketball Club (women)]"/>
 </div>
 
 The  Darwin  Women’s  Basketball  Club  is  the  college's  most  successful  sports  team,  and  THE   most   successful   women’s   basketball   team   in   the   university,   having   won   the   college league most years since its formation in  May  2000.  We  are  fortunate  enough  to  have a dedicated basketball coach, Dan, who runs  our  training  all  year  round  so  we  can  improve our skills and truly enjoy the game of basketball.  We  practice  with  friendly  games,  often  joined  by  members  of  the  university  1st and 2nd teams! No matter what your skill level, beginner or player for many years, you are welcome on our team!We practice every Sunday 6:15pm to 8:15pm at  Coleridge  Community  College.  
@@ -246,7 +246,6 @@ University JCR league, and we also enter into one of the world’s oldest cup co
 Jon (jjw29) and Kalid (ku230)
 
 </details>
-
 
 <!-- Football (Women's) -->
 <details align="justify" style="text-align:justify">
