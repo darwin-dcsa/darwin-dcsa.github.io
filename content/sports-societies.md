@@ -400,11 +400,11 @@ successfully competed in the inter-college Cuppers Competition and we hope to do
 
 <!-- Ultimate Frisbee -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Ultimate Frisbee </b></summary>
-
+  <summary><b>Penguins Ultimate Frisbee </b></summary>
+<br>
+Ultimate Frisbee is a team sport played with a flying disc. The best way to get a sense of what it’s all about is to come along and try it! We hold weekly training sessions involving throwing practice, some drills and lots of games – anyone from complete beginner to national-level player is welcome to join us. Matches for the friendly but competitive College league are usually at weekends, and there’s a tournament at the end of each term. Our team comprises players from a few different colleges, so playing with us is a great way to meet people from other colleges too – plus we organise plenty of socials and formals.
 <br><br>
-
-<strong>Contact:</strong><br>
+<strong>Contact:</strong> Mahmud (mh2169)<br>
 <br>
 </details>
 <!-- Wine and Cheese Society-->
