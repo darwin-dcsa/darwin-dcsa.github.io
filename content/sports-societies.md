@@ -345,6 +345,20 @@ Callum, dcsa_punts@darwin.cam.ac.uk<br>
 
 </details>
 
+<!-- Quiz -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Quiz </b></summary>
+
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/quiz.jpg" alt="[Quiz]"/>
+</div>
+
+A group for organizing Darwin's quizzing activities, from the termly darQuiz to the University Challenge team.
+<br><br>
+<strong>Contact:</strong> Jon ((jiw29))<br>
+</details>
+
+
 
 <!-- Rugby -->
 <details align="justify" style="text-align:justify">
