@@ -380,6 +380,10 @@ Find us in the Darwin Whatsapp Community <br>
 <details align="justify" style="text-align:justify">
   <summary><b>Squash Club </b></summary>
 
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/squash.jpg" alt="[Squash]"/>
+</div>
+
 Whether you are someone who's always wanted to try squash but never had the time/place or a seasoned player looking for
 competition, Darwin Squash is the place for you. We run taster sessions during the early part of Michaelmas, have weekly coached
 sessions during term time, and participate in the college leagues (Michaelmas and Lent) and Cuppers (Lent). And of course if you just want to play for fun, there's loads of club mates who are up for friendly games during the week. Come say hello and find out how to book courts and borrow equipment.
