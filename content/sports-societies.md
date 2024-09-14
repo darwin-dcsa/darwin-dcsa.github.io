@@ -407,6 +407,18 @@ Ultimate Frisbee is a team sport played with a flying disc. The best way to get 
 <strong>Contact:</strong> Mahmud (mh2169)<br>
 <br>
 </details>
+
+<!-- Volleyball -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Volleyball </b></summary>
+<br>
+Our volleyball club is all about having fun and enjoying the game in a friendly, relaxed atmosphere. Whether you're a seasoned
+player or just starting out, everyone is welcome to join in and share our love for the sport. We organise weekly sessions and take part in the friendly local volleyball league as well in Cuppers (intercollegiate sports competitions).
+<br><br>
+<strong>Contact:</strong> Maciek (mw896)<br>
+<br>
+</details>
+
 <!-- Wine and Cheese Society-->
 <details align="justify" style="text-align:justify">
 <summary><b>Wine and Cheese Society </b></summary>
@@ -415,9 +427,12 @@ Ultimate Frisbee is a team sport played with a flying disc. The best way to get 
 <img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]"/>
 </div>
 
-Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page for updates.
+Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a
+Sommelier or cheese fancier? The DCW&CS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year.
 <br><br>
+<strong>Contact:</strong> Sofia (skpd2), Patrick (pwh33)<br>
 </details>
+
 <!-- Yoga -->
 <details align="justify" style="text-align:justify">
   <summary><b>Yoga </b></summary>
@@ -428,42 +443,16 @@ Care to know your Camembert from your Castigliano? Your Burgundy from your Beauj
 
 Darwin does Yoga!
 <br><br>
-We offer Iyengar yoga classes twice a week with one of Cambridge's most sought-after teachers, Shaili Shafai. All levels are welcome! We run classes twice a week during the whole year: Wednesdays 6-7pm and Saturdays 2:30-3:30pm. These usually happen in the common room, but to keep it safe and ensure social distancing, we have now moved online! You can join our online classes by subscribing to our  "Darwin College Yoga" mailing list to receive the class access details.
-<br><br>
-We offer all the equipment needed, so if you would like to access some of it to join our online yoga classes, get in touch.
-<br><br>
-We also offer more advanced workshops and social events once a term!
-<br><br>
-Find us on Facebook for more information.
-<br><br>
-
-<b>Fee:</b>
-<br>Darwin members £1
-<br>Non-Darwinians £6
-<br><br>
+Darwin does Yoga! We offer Iyengar yoga classes twice a week with one of Cambridge's most sought-after teachers, Shaili Shafai.
+All levels are welcome! We run classes twice a week during the whole year: Online on Wednesdays 6-7:15pm and in-person Saturdays 2:00-3:15pm in the Bradfield room.
+<br>
+You can join our online classes by subscribing to our "Darwin College Yoga" mailing list to receive the class access details, and just turn up for the in person ones! We offer all the equipment needed, so if you would like to access some of it to join our
+online yoga classes, get in touch. We also offer more advanced workshops and social events once a term!
 
 <strong>Contact:</strong><br>
-Cristina Jauset, cj389<br>
-<a href="https://www.facebook.com/groups/darwincollegeyoga/">Facebook</a><br>
-</details>
-
-<!-- Zumba -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Zumba </b></summary>
-
-<!-- NB: insert image -->
-
-We run one Zumba class per week at Darwin, rotating every other week between traditional Zumba and STRONG. The former is a fitness program that combines Latin and international music with dance moves. Zumba routines incorporate interval training—alternating fast and slow rhythms—and resistance training.
-<br><br>
-STRONG classes combine a killer bodyweight bootcamp workout with party vibes and pumped-up music. It is a High Intensity Interval Training class using more traditional fitness moves for a more athletic, conditioningstyle workout. You use your own body weight as resistance to achieve muscle definition. The songs match every move, driving the intensity in a challenging progression that provides a total body workout.
-<br><br>
-
-<strong>Contact:</strong> <br>
-Chiara Toschi, ct452<br>
-<a href="https://www.facebook.com/groups/668594220570298/">Facebook</a><br>
-</details>
-
+Alex (darwincollegeyogaclub@gmail.com)
 <br>
+</details>
 
 # Get involved
 <br>
@@ -471,6 +460,7 @@ If there’s a club/society not listed here,  not to worry - you can start it! T
 <br><br>
 Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Masha (dcsa_treasurer@darwin.cam.ac.uk) or Gratsiela and Laura (dcsa_sports@darwin.cam.ac.uk)
 <br>
+
 
 <!-- APES -->
 <details align="justify" style="text-align:justify">
@@ -524,27 +514,11 @@ A society for all those interested in chess at Darwin College. We have weekly ch
 <!-- Cycling Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cycling Club </b></summary>
-  We are the DCCC; an inclusive and Darwin
- (and Friends) cycling community!!! We
- run a bunch of different activities from
- group rides to cycle socials! As part of
- the DCCC, you’ll have the opportunity to:<br>
- 1. explore Cambridgeshire together
- in a social and safe environment
- (regular within-week rides and joint
- weekend trips) <br>
-  2. compete within (fun competitions,
- leaderboards etc.) and outside of
- Darwin College (e.g., with other
- colleges)<br>
- 3. learn how to ride safely and to make
- sure you bike is properly maintained
- (e.g., bike maintenance workshops,
- routes, general training advice etc.)<br>
- 4. get together with fellow cyclists for
- a coffee or drink and enjoy being
- part of a community of like minded
- people!
+  We are the DCCC; an inclusive and Darwin (and Friends) cycling community!!! We run a bunch of different activities from group rides to cycle socials! As part of the DCCC, you’ll have the opportunity to:<br>
+ 1. explore Cambridgeshire together in a social and safe environment (regular within-week rides and joint weekend trips) <br>
+2. compete within (fun competitions, leaderboards etc.) and outside of Darwin College (e.g., with other colleges)<br>
+ 3. learn how to ride safely and to make sure you bike is properly maintained (e.g., bike maintenance workshops, routes, general training advice etc.)<br>
+ 4. get together with fellow cyclists for a coffee or drink and enjoy being part of a community of like minded people!
 <br><br>
 
   <a ref="https://www.facebook.com/groups/459033982106186/">Facebook</a><br>
@@ -758,4 +732,17 @@ science pub quizzes, lively debates to movie nights and much more... Nonscience 
 <!-- NB: insert image -->
 We play water polo jointly with Queens, training once a week and playing (winning) college league once a term. All ability and genders welcome. PS: there are no horses involved...
 <br><br>
+</details>
+
+<!-- Zumba -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Zumba </b></summary>
+
+<!-- NB: insert image -->
+
+We run one Zumba class per week at Darwin, rotating every other week between traditional Zumba and STRONG. The former is a fitness program that combines Latin and international music with dance moves. Zumba routines incorporate interval training—alternating fast and slow rhythms—and resistance training.
+<br><br>
+STRONG classes combine a killer bodyweight bootcamp workout with party vibes and pumped-up music. It is a High Intensity Interval Training class using more traditional fitness moves for a more athletic, conditioningstyle workout. You use your own body weight as resistance to achieve muscle definition. The songs match every move, driving the intensity in a challenging progression that provides a total body workout.
+<br><br>
+
 </details>
