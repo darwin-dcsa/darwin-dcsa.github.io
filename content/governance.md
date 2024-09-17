@@ -13,7 +13,7 @@ permalink: /governance/
 
 ## Elections and how to join the DCSA
 
-Being on the DCSA Executive Committee is a great way to get more involved in College life. The DCSA Executive Committee consists of up to 20 volunteering PhD and MPhil students. Executive Committee members are primarily elected to their positions in the Easter and Michaelmas DCSA elections.
+Being on the DCSA Executive Committee is a great way to get more involved in College life. The DCSA Executive Committee consists of up to 20 volunteering postgraduate students. Executive Committee members are primarily elected to their positions in the Easter and Michaelmas DCSA elections.
 
 The Committee is responsible for various activities, including organising events, looking after the welfare of students, managing the DCSA budget (including budget allocations for sports clubs and societies), and is there to listen to and voice any concerns from any DCSA member. Executive committee members represent the concerns and interests of the student body at Darwin both internally to Fellows and staff of College, and externally to such bodies as the GU (Graduate Union), CUSU (Cambridge University Student Union), and NUS (National Union of Students).
 
