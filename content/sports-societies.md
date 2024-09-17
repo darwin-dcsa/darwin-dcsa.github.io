@@ -433,6 +433,9 @@ Ultimate Frisbee is a team sport played with a flying disc. The best way to get 
 <!-- Volleyball -->
 <details align="justify" style="text-align:justify">
   <summary><b>Volleyball </b></summary>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/volleyball.jpg" alt="[Volleyball]"/>
+</div>
 <br>
 Our volleyball club is all about having fun and enjoying the game in a friendly, relaxed atmosphere. Whether you're a seasoned
 player or just starting out, everyone is welcome to join in and share our love for the sport. We organise weekly sessions and take part in the friendly local volleyball league as well in Cuppers (intercollegiate sports competitions).
