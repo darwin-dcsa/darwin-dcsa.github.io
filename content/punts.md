@@ -95,11 +95,11 @@ Trips down The Backs (to Jesus Green and back, passed the Colleges) typically ta
 
 <h5>For Alumni Without A CRSid</h5>
 <p align="justify">
-Alumni must contact the College Development Office at <a href="alumni.relations@darwin.cam.ac.uk">alumni.relations@darwin.cam.ac.uk</a> who will be able to make the booking in your place. Same-day bookings can be made in person at the Porters’ Lodge, but we strongly advise you to make the reservation to avoid disappointments.
+Alumni must contact the College Development Office at <a href="alumni@darwin.cam.ac.uk">alumni@darwin.cam.ac.uk</a> who will be able to make the booking in your place. Same-day bookings can be made in person at the Porters’ Lodge, but we strongly advise you to make the reservation to avoid disappointments.
 </p>
 
 <p align="justify">
-Chauffeured punt tour services with experienced student Punt Captains are available. The usual cost is £20 per punt per hour (minimum 2 hours), and is bookable by current College members and Alumni. Please contact the Admiral of the punts at least one to two weeks in advance of your desired tour date.
+Chauffeured punt tour services with experienced student Punt Captains are available. The usual cost is £20 per punt per hour (minimum 2 hours), and is bookable by current College members and Alumni. Please contact the Admiral of the Punts at least one to two weeks in advance of your desired tour date.
 </p><br>
 
 <h4 id="joining-the-punt-club">Joining the Punt Club/Renewing membership</h4>
@@ -118,14 +118,13 @@ To join the Punt Club or renew your membership:
 <li>Sign up
 <ul>
 <!-- <li>For Raven account holders/ if you have a CRSID:<br> -->
-<!-- NOTE, signup is closed for the 2019/2020 season. Please DO NOT SIGNUP unless directed to do so by the Admiral of the -->
-<!-- Punts. We will open the signup again early next year!</li> -->
+
 <strong><b>IMPORTANT - make sure to complete the form all the way and press the submit button at the end, after completing the Paypal payment. Without submitting the form, you are not in the data base and we don't have a record of your signup! It can take up to 24hrs before your signup is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
 Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
 Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLScWtZ6yJ8WqGqS0YGxvjs04xexKmFAp2xpoXkELKj7o1pKXxw/viewform?usp=sf_link">the online registration form</a></ul></li>
 
 <li>For anyone without a booking system account/CRSid:<br>
-Contact the Admiral of the Punts (include your full name, email, and your relationship to the College), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).
+Contact the Admiral of the Punts (include your full name, email, and your relationship to the College), please put the Darwin Alumni Relations Office in cc (alumni@darwin.cam.ac.uk).
 </li>
 </ol>
 
