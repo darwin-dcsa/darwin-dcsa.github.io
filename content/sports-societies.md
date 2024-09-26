@@ -243,7 +243,7 @@ University JCR league, and we also enter into one of the world’s oldest cup co
 
 
 <strong>Contact:</strong> <br>
-Jon (jjw29) and Kalid (ku230)
+Jon (jiw29) and Kalid (ku230)
 
 </details>
 
