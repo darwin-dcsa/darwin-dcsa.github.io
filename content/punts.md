@@ -74,7 +74,7 @@ A quick summary of the rules is below. However this is not comprehensive and you
 <h4 id="bookings">Bookings</h4>
 
 <p align="justify">
-Current members of the College, including Staff and Alumni, can book a single standard outing (see above; e.g., a single punt for up to 3 hours) each day. Punt Club members can book punts for free. Only Punt Club members can book the canoe, kayaks, or paddle boards.
+Current members of the College, including Staff and Alumni, must be members of the punt club in order to book (see above; e.g., a single punt for up to 3 hours) each day. Punt Club members can book punts for free in addition to the canoe, kayaks, and paddle boards.
 </p>
 
 <p align="justify">
@@ -95,7 +95,7 @@ Trips down The Backs (to Jesus Green and back, passed the Colleges) typically ta
 
 <h5>For Alumni Without A CRSid</h5>
 <p align="justify">
-Alumni must contact the College Development Office at <a href="alumni@darwin.cam.ac.uk">alumni@darwin.cam.ac.uk</a> who will be able to make the booking in your place. Same-day bookings can be made in person at the Porters’ Lodge, but we strongly advise you to make the reservation to avoid disappointments.
+Alumni must register as members of the punt club in order to book a vessel. Bookings can be made by emailing the porters or the Admiral of the Punts (dcsa_punts@darwin.cam.ac.uk). We can no longer accomodate single outings.
 </p>
 
 <p align="justify">
