@@ -237,7 +237,7 @@ The International Officer is responsible for representing the needs of internati
         Alexandre PORCHER FERNANDES (he/him)<br/>
         <p align="justify">
 
-Hey! I am Alex, a second-year PhD student at the Department of Genetics. I grew up in Brazil, then later moved to Portugal when I was 18, and have now been living in the UK for almost two years. I enjoy hiking, doing origami, and drinking tequila (so you can find me at DarBar every so often). Please feel free to contact me with suggestions for how we can improve the Q+ community in the college at any time! <br><br>
+Hey, I’m Ryan! I’m studying an MPhil in Cognitive Neuroscience at the Cognition and Brain Sciences Unit. I grew up in Sydney, Australia (so I'm still mourning the loss of sunshine in my life this Winter...). I’m a lover of all animals, I love travelling and getting throttled by scary movies. I’m also a charity-shopping addict. Feel free to contact me whenever with queer-related concerns or any suggestions for improving Q+ culture at Darwin!<br><br>
 
 The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Joe is always there to chat, advise and help out where possible.
         </p>
