@@ -106,9 +106,11 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Disabilities Officer</strong><br/>
          dcsa_disabilities@darwin.cam.ac.uk<br/>
-         Anshula GANDHI<br/>
+         Seema Chandana BACHOO (she/her) <br/>
         <p align="justify">
-I'm Anshula, a math PhD student going into my second year.  I tend to spend my time being cozy in my room or walking around Darwin gardens. If you have any disabilities (diagnosed or undiagonsed, mental or physical), and would like to chat one-on-one about available resources, please feel free to <a href="http://calendly.com/dcsa_disabilities">schedule a chat</a> with me, or email me.<br><br>
+Hi, I’m Seema, a PhD student in Medical Sciences at the CRUK CI, originally from the beautiful island of Mauritius. When I’m not busy with my PhD, I love curling up with a good book, baking, or tending to my ever-growing plant collection  (I’m a proud plant hoarder who refuses to let the occasional plant mishap stop me!).
+
+If you have a disability—whether diagnosed or not, visible or non-visible—and would like to discuss about available resources, support, or navigating life as a student with a disability, or chat about anything else, please don’t hesitate to reach out. I’d be happy to assist in any way I can!<br><br>
 
 The Disabilities Officer is a position to support other DCSA officers and the
 college to improve accessibility for, and inclusivity of, students
@@ -123,10 +125,10 @@ with any disability or long-term health condition.
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents@darwin.cam.ac.uk<br/>
-        Lewis STRACHAN (he/him)
+        Mehmet Kerem CITAK (he/him)
         <br/>
 <p align="justify">
-Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at the Cambridge Institute for Medical Research. When I'm not stuck at Addenbrooke's I like cycling, hanging with friends at Darbar, and sometimes just watching the river go by. <br>
+Hey all! I’m Kerem, a first-year PhD student in materials science, working on biomaterials for regenerative medicine. Outside of work, you might find me serving at the Darbar, trying to learn to play the piano in the Bradfield Room, or exploring the town on foot or by bike. <br>
         </p>
     </td></tr>
     
@@ -169,10 +171,12 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
     <td style="vertical-align: middle">
         <strong>Events Officer</strong><br/>
          dcsa_events@darwin.cam.ac.uk<br/>
-         Edouard BARRIER (he/him)<br/>
+         Rory O'NEILL (he/they)<br/>
         <p align="justify">
 
-Hi everyone! I’m Edouard, a third year PhD student in astronomy specialising in exoplanet climate modelling. Outside this, you can find me playing sport for one of a number of Darwin teams or kicking back in Darbar. Come say hi!<br><br>
+Hey hey! I'm Rory, an MPhil student in Education (Arts, Creativity, and Education)—a pretty ACE programme for exploring events and ideas. I'm an artist by trade, so you’ll often find me painting, drawing, or pondering the state of the world and not knowing things. When I’m not immersed in art, I’m usually found reading, visiting exhibitions, or enjoying a drink (or four) in Dar Bar, and coordinating events as Events Officer!
+
+ <br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
         </p>
@@ -185,11 +189,11 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external@darwin.cam.ac.uk<br/>
-         VACANT<br/>
+         Isabel ALEXANDER (she/her) <br/>
         <p align="justify">
 
 <br><br>
-The DCSA is currently lacking an External officer — if you're interested in joining, contact the secretary or president.<br><br>
+Hello! My name is Isabel and I’m studying to be a professional nativity director. I’m excited to have a role that demands I investigate as many college bars and formals as possible, combining my two passions (pretty architecture and drinking). If you have any suggestions for ways in which Darwin could collaborate with other colleges, or anything you want to pass on to the SU, please get in touch!<br><br>
 
         
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
@@ -205,7 +209,7 @@ The External Officer is responsible for organising formal swaps with other Colle
          dcsa_families@darwin.cam.ac.uk<br/>
          Ben RUDD (he/him) <br/>
         <p align="justify">
-Hi! I’m Ben Rudd. I was an English teacher for many years and have returned to Cambridge for my PhD in Education. I am currently a second year who is looking at ways educators might use material referents to help students improve narrative awareness in creative writing and literary analysis. I live in Darwin accommodation with my partner Rachel, who is a digital media sociologist, and my daughter Eve, who is a toddler. Outside of my studies, I enjoy reading contemporary literature, quizzing, and playing guitar. 
+Hi! I’m Ryota, an MPhil student in Planning, Growth and Regeneration, which means I study urban planning. Before coming to Cambridge, I worked for the Japanese government for several years. I live in a Darwin accommodation with my wife Hina, and our toddler son, Moto. Outside of my studies, I enjoy spending time with my family, exploring parks and museums, or discovering new activities for children in Cambridge. As a coffee enthusiast, I’m always on the lookout for good spots in the city.
 <br><br>
 
 The Families Officer is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students. See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
