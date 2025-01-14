@@ -91,9 +91,9 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
          dcsa_coms@darwin.cam.ac.uk<br/>
-         Rachel GU (she/her)<br/>
+         Isabella (Izzy) ZENTNER (she/her)<br/>
         <p align="justify">
-Hi, I’m Rachel! I’m currently wrapping up my PGCE in Early Primary to teach 3-7-year-olds. Outside of that, I can be found in Darwin kayaking, beekeeping, quizzing, gardening, or – more commonly – running around in panic because I’ve lost my keys again. Come and say hello if you spot me around; I’m always up for a chat! <br><br>
+Hello! I’m Izzy, I’m a Masters student studying Education, Globalisation, and International Development. When not fighting my way through readings, I love classic grandmotherly activities such as crochet, drawing, and river swimming. Feel free to say hi if you see me wandering around the Darwin gardens, and make sure to get in touch if you have any college events you’d like featured in the newsletter! <br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info">mailing list</a>!
         </p>
@@ -207,7 +207,7 @@ The External Officer is responsible for organising formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>Families Officer</strong><br/>
          dcsa_families@darwin.cam.ac.uk<br/>
-         Ben RUDD (he/him) <br/>
+         Ryota USHIO (he/him) <br/>
         <p align="justify">
 Hi! I’m Ryota, an MPhil student in Planning, Growth and Regeneration, which means I study urban planning. Before coming to Cambridge, I worked for the Japanese government for several years. I live in a Darwin accommodation with my wife Hina, and our toddler son, Moto. Outside of my studies, I enjoy spending time with my family, exploring parks and museums, or discovering new activities for children in Cambridge. As a coffee enthusiast, I’m always on the lookout for good spots in the city.
 <br><br>
@@ -223,7 +223,7 @@ The Families Officer is responsible for representing and furthering the needs of
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international@darwin.cam.ac.uk<br/>
-         VACANT<br/>
+         Alexandre PORCHER FERNANDES (he/him)<br/>
         <p align="justify">
 The DCSA is currently lacking an International officer — if you're interested in joining, contact the secretary or president.<br><br>
 
@@ -238,7 +238,7 @@ The International Officer is responsible for representing the needs of internati
     <td style="vertical-align: middle">
         <strong>Q+ Officer</strong><br/>
         dcsa_lgbtq@darwin.cam.ac.uk<br/>
-        Alexandre PORCHER FERNANDES (he/him)<br/>
+        Ryan JEPSON (he/him)<br/>
         <p align="justify">
 
 Hey, I’m Ryan! I’m studying an MPhil in Cognitive Neuroscience at the Cognition and Brain Sciences Unit. I grew up in Sydney, Australia (so I'm still mourning the loss of sunshine in my life this Winter...). I’m a lover of all animals, I love travelling and getting throttled by scary movies. I’m also a charity-shopping addict. Feel free to contact me whenever with queer-related concerns or any suggestions for improving Q+ culture at Darwin!<br><br>
