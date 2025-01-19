@@ -86,7 +86,7 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpeg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpeg" alt="[Communications Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpeg" alt="[Communications Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
