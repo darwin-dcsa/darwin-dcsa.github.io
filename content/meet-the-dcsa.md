@@ -299,9 +299,9 @@ Hi everyone! I’m Jemima, a first year PhD student in the Department of Biochem
     <td style="vertical-align: middle">
         dcsa_welfare@darwin.cam.ac.uk<br/>
         <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
-        VACANT, Men's and NB Welfare<br/>
+        Jack HEATH (he/him), Men's and NB Welfare<br/>
         <p align="justify">
-The DCSA is currently lacking a Men's and Non-binary officer — if you're interested in joining, contact the secretary or president.
+Hi all! I'm Jack, an MPhil English student that's returned from Intermission 2023-2024. When I'm not studying the  literary representations of industrial ecologies in my hometown of Stoke-on-Trent (or explaining my theory of how Charles Darwin wouldn't exist without Stoke and its endless wet Wednesdays) you'll find me daydreaming with intense focus (sometimes after a few too many pints in the bar), collecting pottery, editing student magazines, or surreptitiously writing poetry. A fair few people consider me the chillest friend they have, so if you need a little calmness in your life please say hello and have a chat!
 <br><br>
 
 The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
