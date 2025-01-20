@@ -138,10 +138,10 @@ Hey all! I’m Kerem, a first-year PhD student in materials science, working on 
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-         Ruth MORIARTY / Ruth NÍ MHUIRCHEARTAIGH (they/them)
+         Gabriel ABRAHAM (he/him)
         <br/>
        <p align="justify"> 
-Hi/Haigh! I am Ruth, hailing from Ireland and studying for a Master's in Mathematics Education. As well as mathematics, I am an enthusiast of languages (especially Gaelic languages), film, music (listening/making) and the outdoors. When I am not educating, being educated or thinking about education, you may find me reading in the garden, cycling, kayaking, playing tennis or drinking (an unusually flavoured) beer at DarBar. If you spot my mushroom-shaped ginger head around Darwin, do come say hi. <br><br>
+Bio here.  <br><br>
 
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
@@ -155,9 +155,9 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
     <td style="vertical-align: middle">
         <strong>Environmental and Ethical Affairs Officer</strong><br/>
          dcsa_green@darwin.cam.ac.uk<br/>
-         VACANT <br/>
+         Eva SAVIDAN <br/>
         <p align="justify">
-The DCSA is currently lacking an Environmental and Ethical Affairs officer — if you're interested in joining, contact the secretary or president.
+Bio here. 
 <br><br>
 
 The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that they can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
