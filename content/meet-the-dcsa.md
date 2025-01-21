@@ -225,7 +225,8 @@ The Families Officer is responsible for representing and furthering the needs of
          dcsa_international@darwin.cam.ac.uk<br/>
          Alexandre PORCHER FERNANDES (he/him)<br/>
         <p align="justify">
-The DCSA is currently lacking an International officer — if you're interested in joining, contact the secretary or president.<br><br>
+Hey! I am Alex, a second year PhD student at the Department of Genetics. I grew up in Brazil, then later moved to Portugal when I was 18, and have now been living in the UK for almost two years. I enjoy hiking, doing origami, and drinking tequila (so you can find me at DarBar every so often). Please feel free to contact me with suggestions for how we can improve the international community in the college at any time!
+<br><br>
 
 The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
         </p>
