@@ -141,7 +141,8 @@ Hey all! I’m Kerem, a first-year PhD student in materials science, working on 
          Gabriel ABRAHAM (he/him)
         <br/>
        <p align="justify"> 
-Bio here.  <br><br>
+Trained as a computer scientist, now studying the MPhil in Genomic Medicine to resolve a personal concern. Long-term, ideally, win a Nobel Prize—possibly two. Walk on the moon, traverse the sun, be knighted, develop cures for a range of diseases, transform the way healthcare is provided around the world, in addition to playing my part in solving localised and then global problems. Should these things be done​ before I am 50, I may consider contributing my time most generously and becoming Prime Minister of the United Kingdom.
+Let me know if you'd like to join me on my little adventure.  <br><br>
 
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
