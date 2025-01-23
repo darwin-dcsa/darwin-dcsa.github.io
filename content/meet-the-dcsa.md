@@ -155,9 +155,9 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
     <td style="vertical-align: middle">
         <strong>Environmental and Ethical Affairs Officer</strong><br/>
          dcsa_green@darwin.cam.ac.uk<br/>
-         Eva SAVIDAN <br/>
+         Eva SAVIDAN (she/her) <br/>
         <p align="justify">
-Bio here. 
+Hey ! I’m Eva, the Green Officer at Darwin. I am currently doing an MPhil in Urban Planning, trying to understand how human settlements shape and are shaped by the climate. I’m part of the Darwin rowing team so I’m on the river several mornings a week, but the rest of the day you can most probably find me in the parlor ! Please don’t hesitate to reach out if you have any questions about sustainability or want to organize a sustainability-related event. Looking forward to seeing you during Green Week ! 
 <br><br>
 
 The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that they can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
