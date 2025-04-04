@@ -80,7 +80,7 @@ Current members of the College, including Staff and Alumni, must be members of t
 <p align="justify">
 Bookings can be made on the day, or up to seven days in advance, and are allocated on a first-come, first-served basis. Weekends are the busiest and booking in advance is strongly recommended. During the week you will usually be able to take a punt out without booking in advance - but it is still recommended to avoid disappointment.
 <strong>
-For current students & College members with a CRSid: all bookings need to be made before the outing starts via the <a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">online booking system</a>.
+For current students & College members with a CRSid: all bookings need to be made before the outing starts via the <a href="https://booking.dar.cam.ac.uk/Web/index.php?redirect=%2FWeb%2Fdashboard.php%3F">online booking system</a>.
 </strong></p>
 
 <p align="justify">
