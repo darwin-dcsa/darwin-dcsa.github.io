@@ -90,7 +90,7 @@ Trips down The Backs (to Jesus Green and back, passed the Colleges) typically ta
 <strong>For longer trips to Grantchester, if multiple punts are required, or for other non-standard bookings please contact the Admiral of the Punts.
 </strong></p>
 
-<a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">Link to the online booking system</a>
+<a href="https://booking.dar.cam.ac.uk/Web/index.php?redirect=">Link to the online booking system</a>
 
 
 <h5>For Alumni Without A CRSid</h5>
