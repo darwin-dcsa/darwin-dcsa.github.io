@@ -126,7 +126,9 @@ with any disability or long-term health condition.
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents@darwin.cam.ac.uk<br/>
-        Vacant
+        Mika Kontiainen (he/him)
+
+Hi there! I’m Mika, a second-year PhD student in astronomy working on understanding the formation and evolution of planets in the Galactic context. When I’m not forming planets from scratch on a computer, I enjoy spending time outdoors, preferably with a camera and some fresh film on hand.
         <br/>
 <p align="justify">
  <br>
@@ -188,10 +190,13 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external@darwin.cam.ac.uk<br/>
-         Vacant <br/>
+         Alex JESSEN <br/>
         <p align="justify">
 
 <br><br>
+
+Hi everyone,
+I’m Alex. I’m from Berlin, and I’m enrolled in the LL.M. program, where I mainly study public international law. When I’m not trying to catch up with the seemingly never-ending reading lists, I enjoy rowing, going to the gym, and spending time with my friends at Darbar.
 
         
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
