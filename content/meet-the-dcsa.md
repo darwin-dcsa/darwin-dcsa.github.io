@@ -92,8 +92,9 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
          dcsa_coms@darwin.cam.ac.uk<br/>
-         Vacant <br/>
+         Janani Ventakash <br/>
         <p align="justify">
+Still no bio from Janani :-/ 
  <br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info">mailing list</a>!
@@ -107,11 +108,9 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Disabilities Officer</strong><br/>
          dcsa_disabilities@darwin.cam.ac.uk<br/>
-         Seema Chandana BACHOO (she/her) <br/>
+         Vacant <br/>
         <p align="justify">
-Hi, I’m Seema, a PhD student in Medical Sciences at the CRUK CI, originally from the beautiful island of Mauritius. When I’m not busy with my PhD, I love curling up with a good book, baking, or tending to my ever-growing plant collection  (I’m a proud plant hoarder who refuses to let the occasional plant mishap stop me!).
-
-If you have a disability—whether diagnosed or not, visible or non-visible—and would like to discuss about available resources, support, or navigating life as a student with a disability, or chat about anything else, please don’t hesitate to reach out. I’d be happy to assist in any way I can!<br><br>
+<br><br>
 
 The Disabilities Officer is a position to support other DCSA officers and the
 college to improve accessibility for, and inclusivity of, students
@@ -126,7 +125,7 @@ with any disability or long-term health condition.
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents@darwin.cam.ac.uk<br/>
-        Mika Kontiainen (he/him)
+        Mika KONTIAINEN (he/him)
 
 Hi there! I’m Mika, a second-year PhD student in astronomy working on understanding the formation and evolution of planets in the Galactic context. When I’m not forming planets from scratch on a computer, I enjoy spending time outdoors, preferably with a camera and some fresh film on hand.
         <br/>
@@ -355,7 +354,7 @@ Hi, I’m Liz, in my second year of my PhD at the Department of Land Economy stu
         dcsa_council_reps@darwin.cam.ac.uk<br/>
         Mary SKUODAS <br/>
         <p align="justify">
-            
+Still no bio from Mary :-/            
 <br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
