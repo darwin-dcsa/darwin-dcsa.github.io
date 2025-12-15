@@ -366,8 +366,8 @@ A group for organizing Darwin's quizzing activities, from the termly darQuiz to 
 
 Whether you’ve never played rugby or have done since birth, whether you are here for 1 year, 3 years, or even more, whether you drink or don’t, we are an inclusive rugby team of mature undergraduates and postgraduates across 5 colleges. We have weekly intercollegiate matches, training sessions, and socials, including screenings of Six Nations and Champions Cup matches.
 <br><br>
-<strong>Contact:</strong> Stefan (ssn34)<br>
-<a href="https://www.facebook.com/groups/HERUFC">Facebook</a><br>
+<strong>Contact:</strong> Tom (tdw50)<br>
+<a href="https://www.instagram.com/allgreys_rugby/">Instagram</a><br>
 </details>
 
 
