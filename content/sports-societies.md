@@ -225,7 +225,7 @@ or style to try, such as still life, pot painting, clay sculpting, marbling and 
 <br><br>
 
 <strong>Contact:</strong> Beccy (rm994)
-<br><a href="https://www.facebook.com/groups/640366466105667/">Facebook</a><br>
+<br>
 </details>
 
 
