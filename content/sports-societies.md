@@ -36,8 +36,8 @@ WhatsApp: Access via Community Page
 <img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]"/>
 </div>
 
-Darwin College has a proud and successful basketball tradition! Every year, we compete in two of Cambridge University's  intercollegiate competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers tournament  (Easter  term). We are the reigning champions in both competitions  and  are  eager  to  defend  our  titles this season!The season  officially runs from late  October to April,  but  our  commitment  to  basketball  doesn’t stop there. We continue to train once a week and play throughout the summer.Come join us, make new friends, and help us keep the winning tradition alive!<br><br>
-<strong>Contact:</strong> Xander (xprp2)
+Darwin College has a proud and successful basketball tradition! Every year, we compete in two of Cambridge University's  intercollegiate competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers tournament  (Easter  term). We are the reigning champions in both competitions  and  are  eager  to  defend  our  titles this season! The season  officially runs from late  October to April,  but  our  commitment  to  basketball  doesn’t stop there. We continue to train once a week and play throughout the summer. Come join us, make new friends, and help us keep the winning tradition alive!<br><br>
+<strong>Contact:</strong> Ryan (hl678)
 <br><br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 </details>
