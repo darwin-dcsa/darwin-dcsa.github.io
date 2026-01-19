@@ -36,8 +36,8 @@ WhatsApp: Access via Community Page
 <img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]"/>
 </div>
 
-Darwin College has a proud and successful basketball tradition! Every year, we compete in two of Cambridge University's  intercollegiate competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers tournament  (Easter  term). We are the reigning champions in both competitions  and  are  eager  to  defend  our  titles this season!The season  officially runs from late  October to April,  but  our  commitment  to  basketball  doesn’t stop there. We continue to train once a week and play throughout the summer.Come join us, make new friends, and help us keep the winning tradition alive!<br><br>
-<strong>Contact:</strong> Xander (xprp2)
+Darwin College has a proud and successful basketball tradition! Every year, we compete in two of Cambridge University's  intercollegiate competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers tournament  (Easter  term). We are the reigning champions in both competitions  and  are  eager  to  defend  our  titles this season! The season  officially runs from late  October to April,  but  our  commitment  to  basketball  doesn’t stop there. We continue to train once a week and play throughout the summer. Come join us, make new friends, and help us keep the winning tradition alive!<br><br>
+<strong>Contact:</strong> Ryan (hl678)
 <br><br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 </details>
@@ -225,7 +225,7 @@ or style to try, such as still life, pot painting, clay sculpting, marbling and 
 <br><br>
 
 <strong>Contact:</strong> Beccy (rm994)
-<br><a href="https://www.facebook.com/groups/640366466105667/">Facebook</a><br>
+<br>
 </details>
 
 
@@ -317,11 +317,11 @@ dcsa_lgbtq@darwin.cam.ac.uk<br>
 
 The purpose of Darwin College Music Society (DCMS) is to foster music practice, performance and appreciation at Darwin. We organise music-related events at Darwin, maintain the music practice room, and are generally a social place for anyone interested in music. We host low-pressure weekly jam sessions where musicians of all backgrounds can meet and play together. We also put on events like open mics, karaoke nights, band showcases as well as set up music equipment for BOPs and Balls. Several bands have formed out of the DCMS have gone on to gig at May Balls, venues around town, and beyond. Whether you're looking to start a band, practice by yourself or just receive updates about music events at Darwin, we invite you to sign up and keep in touch!
 <br><br>
-Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. Don't hesitate to contact the committee with any queries at dcms_committee@darwin.cam.ac.uk.
+Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. 
 <br><br>
 
 <strong>Contact:</strong> <br>
-David (do374)
+Ella (ehjm2)
 </details>
 
 <!-- Punt Club -->
@@ -329,19 +329,22 @@ David (do374)
   <summary><b>Punt Club </b></summary>
 
 <!-- NB: insert image -->
+With a long tradition in Cambridge, punting is among the highlights of life at
+our riverside college. With annual membership of the Darwin College Punt Club,
+you may enjoy unlimited access to all the club's punts, kayaks, paddleboards
+and canoe at less than the price of a single trip with one of the commercial
+punting companies. Beyond allowing you to take your friends and family punting
+whenever they visit, membership will also give you the opportunity to sign up
+to special events such as our Halloween night punting and May Week events
+including the Trinity and St John's May Ball fireworks and King's and Trinity
+choirs singing on the river.
 
-Punting has a long tradition in Cambridge and is one of the highlights of what Darwin has to offer. As a member of the Punt Club,
-you have unlimited access to all of the club‘s punts, kayaks, paddle boards and the canoe at less than the price of a single trip with one of the commercial punting companies. <br>
-
-In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the the Halloween punting, outings to the Trinity and St John’s May Ball fireworks at night, and to see the King's and Trinity choirs singing on the river. We will also chauffeur you to some fancy formals, teach you about bats that live in the area around Grantchester or just have an enjoyable time in summer on a trip to the Grantchester orchard. If you are interested,please have a look at www.dcsa.darwin.cam.ac.uk/punts.
 <br><br>
-Booking information and other details can be found on the <a href="{{site.baseurl | absolute_url}}/facilities/">facilities page</a> in the Punting section.
-<br><br>
-If you have any other questions, please contact the Admiral of the Punts, Callum.
+For further information, see <a href="{{site.baseurl | absolute_url}}/punts/">our webpage</a>.
 <br><br>
 
 <strong>Contact:</strong> <br>
-Callum, dcsa_punts@darwin.cam.ac.uk<br>
+Martin, dcsa_punts@darwin.cam.ac.uk<br>
 
 </details>
 
