@@ -317,11 +317,11 @@ dcsa_lgbtq@darwin.cam.ac.uk<br>
 
 The purpose of Darwin College Music Society (DCMS) is to foster music practice, performance and appreciation at Darwin. We organise music-related events at Darwin, maintain the music practice room, and are generally a social place for anyone interested in music. We host low-pressure weekly jam sessions where musicians of all backgrounds can meet and play together. We also put on events like open mics, karaoke nights, band showcases as well as set up music equipment for BOPs and Balls. Several bands have formed out of the DCMS have gone on to gig at May Balls, venues around town, and beyond. Whether you're looking to start a band, practice by yourself or just receive updates about music events at Darwin, we invite you to sign up and keep in touch!
 <br><br>
-Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. Don't hesitate to contact the committee with any queries at dcms_committee@darwin.cam.ac.uk.
+Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. 
 <br><br>
 
 <strong>Contact:</strong> <br>
-David (do374)
+Ella (ehjm2)
 </details>
 
 <!-- Punt Club -->
