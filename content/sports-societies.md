@@ -115,18 +115,15 @@ In 2021, the College has relaunched the college choir, meeting regularly each Tu
 <br><a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
 </details>
 
-<!-- Climate Club-->
+<!-- Climate Society -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Climate Club </b></summary>
+  <summary><b>Climate Society </b></summary>
 
-Darwin Climate Society exists to promote awareness of the climate breakdown amongst the members of Darwin, and the wider population, and to promote urgent action to combat the climate breakdown, its causes, and impacts. The society meets regularly for meals in the dining hall and other socials, hosts and attends formal swaps with other college climate societies, as well as organising a variety of events in pursuit of its cause and objectives including but not limited to: lectures and presentations, workshops, direct activism, collaboration with other climate societies, and clubs and societies with aligning objectives. 
+Darwin Climate Society exists to promote awareness of the climate breakdown amongst the members of Darwin, and the wider population, to provide a forum for fun and inspiring discussions and to promote urgent action to combat the climate breakdown, its causes, and impacts. The society meets regularly for events, including boardgames and other socials, as well as organising a variety of events in pursuit of its cause and objectives including but not limited to: lectures and presentations, workshops, direct activism, collaboration with other climate societies, and clubs and societies with aligning objectives.
 <br><br>
-The society also provides support to the E&E Officer, the College Sustainability Project Manager, and others in pursing
-environmental sustainability objectives. The society also provides a forum for the dissemination of climate-related information
-and constructive discussion about all climate-related matters.
+The society also provides support to the Environmental and Ethical Affairs Officer, the College Sustainability Project Manager, and others in pursing environmental sustainability objectives. The society also provides a forum for the dissemination of climate-related information and constructive discussion about all climate-related matters.
 
-
-<strong>Contact:</strong> Sarah (sm2651)<br>
+<strong>Contacts:</strong> Liz (lp675) and Mika (mvk26) <br>
 </details>
 
 <!-- Climate SynBio Society-->
