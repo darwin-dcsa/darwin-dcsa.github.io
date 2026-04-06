@@ -23,6 +23,7 @@ The Darwin College Punt Club maintains a fleet of leisure boats for Darwinians t
 <li><a href="#overview">Overview</a></li>
 <li><a href="#joining-the-punt-club">Membership</a></li>
 <li><a href="#bookings">Bookings</a></li>
+<li><a href="#rules">Rules</a></li>
 <li><a href="#first-outing">Care and use of equipment</a></li>
 <li><a href="#activities-and-events">Activities and Events</a></li>
 <li><a href="#groups">Group Hire and Chauffeuring</a></li>
