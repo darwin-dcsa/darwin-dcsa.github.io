@@ -66,7 +66,8 @@ To join the Punt Club or renew your membership:
 <ol>
 <li>Familiarize yourself with our <a href="#terms-and-conditions">Terms and Conditions</a> by reading through this website and read the <a href="{{site.baseurl | absolute_url}}/documents/PuntGuide.pdf">Guide to Punting</a></li>
 <li>Join the WhatsApp group in the Darwinians community (for current student members) and the <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-darwin-punt-club">mailing list</a> (all members). This is a very low volume mailing list, with only occasional updates regarding our terms and conditions and the availability of equipment.</li>
-<li>Sign up using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWtZ6yJ8WqGqS0YGxvjs04xexKmFAp2xpoXkELKj7o1pKXxw/viewform?usp=sf_link">online registration form</a></strong>. You will be asked to pay through a PayPal window before completing the form. Note that you do not need to have a PayPal account in order to pay for the membership. Pay with a debit card and use the Checkout as Guest button. <strong><b>IMPORTANT - make sure to complete the form and press the "SUBMIT" button at the end on the page with the message from the Admiral. Without submitting the form, you will not be on the register and we shall not have a record of your sign-up! If you need to resubmit, you should have an e-mail receipt of your Transaction ID that you can use. It can take up to 24 hours before your sign-up is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
+<li>Sign up using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScWtZ6yJ8WqGqS0YGxvjs04xexKmFAp2xpoXkELKj7o1pKXxw/viewform?usp=sf_link">online registration form</a>. You will be asked to pay through a PayPal window before completing the form. Note that you do not need to have a PayPal account in order to pay for the membership. Pay with a debit card and use the Checkout as Guest button. <strong><b>IMPORTANT - make sure to complete the form and press the "SUBMIT" button at the end on the page with the message from the Admiral. Without submitting the form, you will not be on the register and we shall not have a record of your sign-up! If you need to resubmit, you should have an e-mail receipt of your Transaction ID that you can use. It can take up to 24 hours before your sign-up is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
+  </li>
 </ol>
 
 <br>
@@ -135,9 +136,9 @@ Some of the most important rules are summarised here. Our full terms and conditi
 <p align="justify"><strong>IMPORTANT</strong>: to avoid damage to the boats</p>
 <ul>
 <li>When <strong>taking punts up the rollers</strong> at Bishop’s Mill Sluice on trips to Grantchester, <strong>put the mooring pins</strong> (located on chains at the bow or stern of the punts) <strong>inside of the punts</strong>. <strong>Do NOT keep them inside of their holes</strong>, because they will be bent and cause damage to the punts. If you damage them, you will be charged for replacement parts and labour.</li>
-  <li>When using <strong>kayaks</strong>, make sure to <strong>pull up their drop skegs before taking them out of the water</strong> when they are out of the water to avoid damaging the skegs (<strong>including on the rollers</strong>). When in the water, let the skeg down using the pulley on the side of the kayaks to make them track better (keep course in the water).
+  <li>When using <strong>kayaks</strong>, make sure to <strong>pull up their drop skegs before taking them out of the water</strong> when they are out of the water to avoid damaging the skegs (<strong>including on the rollers</strong>). When in the water, let the skeg down using the pulley on the side of the kayaks to make them track better (keep course in the water).</li>
+<li><a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has more details and explanations on how to avoid common errors.</li>
 </ul>
-<a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has more details and explanations on how to avoid common errors.
 
 <br>
 
