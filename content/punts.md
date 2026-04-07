@@ -30,6 +30,13 @@ The Darwin College Punt Club maintains a fleet of leisure boats for Darwinians t
 <li><a href="#terms-and-conditions">Terms and Conditions</a></li>
 </ul>
 
+<p>
+  <strong>Quick links:</strong>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScWtZ6yJ8WqGqS0YGxvjs04xexKmFAp2xpoXkELKj7o1pKXxw/viewform?usp=sf_link">Register / renew membership</a>
+  &nbsp;|&nbsp;
+  <a href="https://booking.dar.cam.ac.uk/Web/index.php?redirect=%2FWeb%2Fdashboard.php%3F">Online booking system</a>
+</p>
+
 {% include slider.html selector="puntshow" %}
 
 <br>
