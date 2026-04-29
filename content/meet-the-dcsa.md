@@ -293,8 +293,11 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
         <strong>Welfare Officers</strong><br/>
         dcsa_welfare@darwin.cam.ac.uk<br/>
         <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
-        Vacant, Women's and NB Welfare<br/>
+        Masha Novoselova (She/Her), Women's and NB Welfare<br/>
         <p align="justify">
+Hello everyone, I’m Masha, a final-year PhD student at the Wolfson Brain Imaging Centre. I work on novel MRI techniques to bridge the gap between physics and medicine! Outside the lab, you can find me with the college climbing club or unwinding during Darwin yoga 🙂
+
+Please feel free to reach out if you ever want to chat or need support.
  <br><br>
 </p>
 </td></tr>
