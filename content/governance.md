@@ -7,6 +7,7 @@ permalink: /governance/
 
 - [Elections and how to join the DCSA](#elections-and-how-to-join-the-dcsa)
 - [General meetings](#general-meetings)
+- [Executive Committee meetings](#executive-committee-meetings)
 - [Constitution](#constitution)
 - [Budget (and forms)](#budget)
 - [Document archive](#document-archive)
@@ -23,6 +24,8 @@ There are roles to suit everyone and each post has a different workload commitme
 ## General Meetings
 
 General Meetings happen three times a year and are an opportunity for all DCSA members to participate. Any current DCSA member can propose (with a seconder) a motion to be voted upon by the members present at the General Meeting, which is the supreme decision making body of the DCSA. The GMs are also when election hustings take place during Michealmas and Easter Terms. Motions and minutes from previous meetings can be found [here](#document-archive)
+
+## Executive Committee Meetings
 
 The minutes from the regular and general Executive Committee meetings detail the discussions that happen between the DCSA officers at every EC meeting, which are held roughly every fortnight, and where can be traced back the resolutions passed by the Executive Committee at said meetings. They are prepared by the Secretary and Vice-President of the DCSA and are published [online](#document-archive).
 
