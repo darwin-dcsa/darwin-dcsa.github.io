@@ -194,6 +194,21 @@ Punting trips down The Backs (to Jesus Green and back, passed the Colleges) typi
 <strong>How to (un)lock a punt?</strong>
 
 <p align="justify">
+Each of the punts has a designated berth and must be returned to that berth at the end of the outing. Each punt has an associated colour and the listings in the booking system, the punt key floats, the guardrails either side of the berth and the ring on the boat at the end with the mooring pin that goes through the lock (see below) are all marked with this colour.
+</p>
+
+The current colours assigned to the boats, in order from closest to furthest from the kayak house, are
+
+<div style="padding: 2em; background: #e3daa3;">
+<span style="color: 
+#cf081c
+">Red</span>: <i>Isabela</i>, <span style="color: #e6af0b">yellow</span>: <i>Velociraptor</i>, <span style="color: #f7f5f0">White</span>: <i>Beagle</i>, <span style="color: #111212">Black</span>: <i>Master Brown</i>, <span style="color: #087321">Green</span>: <i>Iguana</i> and <span style="color: #755010">Brown</span>: <i>Barnacle</i>.
+</div>
+
+<p align="justify">
+All boats must be <strong>moored with the stern (till/box) facing the kayak house and the bow towards the Mill Pond</strong> to lock correctly. On our fibreglass boats (<i>Isabela</i>, <i>Velociraptor</i>, <i>Master Brown</i> and <i>Iguana</i>) the mooring pin is located at the stern. On the wooden boats (<i>Beagle</i> and <i>Barnacle</i>) it is at the bow.
+</p>
+
 Unlocking and locking the punts takes some care. <a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has instructions. Punts must be left moored at both ends. Wrap the chain around the post as many times as possible to restrict the movement of the locked-up punts against the buoys whilst still leaving them easy to unmoor. Do <strong>NOT</strong> chain one punt to another punt.
 </p>
 
