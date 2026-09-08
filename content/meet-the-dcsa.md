@@ -12,13 +12,10 @@ permalink: /meet-the-dcsa/
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <strong>President</strong><br/>
+        <strong>President (Vacant)</strong><br/>
         dcsa_president@darwin.cam.ac.uk<br/>
-        Katie TAYLOR (she/her)<br/>
+        <br/>
         <p align="justify"> 
-Hi, I’m Katie, a Linguistics PhD student specialising in Forensic Phonetics and Queer Linguistics. I’ve moved around for much of my life (so from nowhere in particular) but I currently live in Windsor. When I’m not working on my PhD or doing DCSA related things, you can usually find me singing, listening to music or enjoying a drink with my friends at DarBar. If you’ve got any questions about the DCSA or college, feel free to pop me an email or come and say hi! <br><br>
-
-
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
         
 
@@ -27,11 +24,11 @@ The President is the representative of the DCSA to College, voicing the opinions
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Secretary.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Secretary.jpg" alt="[Secretary's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <strong>Secretary</strong><br/>
+        <strong>Secretary & Acting Co-President</strong><br/>
         dcsa_secretary@darwin.cam.ac.uk<br/>
-        David O'SHEA (they/them) <br/>
+        Grete FELDMAN <br/>
         <p align="justify">
-Hi, I'm David, and I'm a Physics PhD student from Essex working on defect centres in diamonds- in short, I get to shoot lasers at diamonds. When I’m not stuck in a windowless lab I'm usually playing bass, reading books, or building Lego.<br><br>
+Hi! I’m Grete, a second year PhD student in Theoretical and Applied Linguistics. I’m currently focusing on second language idiom processing and how our brains spark when figurative language form and meaning don’t quite match. If I’m not working in the Parlour, you can usually find me on the Taekwondo mats, finding new cafes, or searching for my next adventure. Please don’t hesitate to reach out if you have any questions or want to talk about your favorite idiom! <br><br>
 
 The Secretary is the administrator of the committee and the Vice President (chair meetings and run the committee in the absence of the President). They run DCSA elections, take meeting minutes, and ensure that up-to-date records of the DCSA’s affairs are maintained, including policy documents and the DCSA Constitution, Schedule, & Regulations. The Secretary also sits on the Buildings & Grounds and the Darwin College Society Committees; and is in charge of the TV room and its bookings.
         </p>
@@ -42,11 +39,11 @@ The Secretary is the administrator of the committee and the Vice President (chai
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Treasurer.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Treasurer.jpg" alt="[Treasurer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <strong>Treasurer</strong><br/>
+        <strong>Treasurer & Acting Co-President</strong><br/>
         dcsa_treasurer@darwin.cam.ac.uk<br/>
        Kerem CITAK (he/him)<br/>
         <p align="justify">
-Hey all! I’m Kerem, a second-year PhD student in materials science, working on the synthesis and characterisation of artificial skin. Outside of work, you might find me working at the Darbar, punting around with friends chasing the swans or training for the Cambridge marathon. <br><br> 
+Hey all! I’m Kerem, a third-year PhD student in materials science. I am working on the synthesis and characterisation of artificial skin (trying to fabricate glorified leakproof sausage casings using collagen smoothies). If I am not at work at West Cambridge, you might find me working at the Darbar, punting around with friends chasing the swans and cygnets or reading Franco-Belgian comics. <br><br> 
 
 The Treasurer is responsible for managing the finances of the DCSA, including drafting the annual budget, publishing periodic expense reports, and assessing the financial feasibility of projects. They are responsible for ensuring timely reimbursements and payments of invoices and for maintaining accurate financial records. The Treasurer also sits on the College Finance Committee.
         </p>
@@ -61,9 +58,9 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
     <td style="vertical-align: middle">
         <strong>Admiral of the Punts</strong><br/>
         dcsa_punts@darwin.cam.ac.uk<br/>
-        Martin Wiltshire<br/>
+        Dominic NOLAN<br/>
         <p align="justify">
-Hi there! In my third year of doctoral studies on the undeciphered writing of the Bronze Age in Greece, I am usually to be found working about the parlour or gardens unless I am out on the Cam. An excellent punter, a tolerable student and a dismal musician, beyond enjoying the outdoors I have pretensions at assorted literary and artistic pursuits and am always up for a chat about anything.
+Hi I'm Dom! I'm in the second year of my Pathology PhD. As Darwin's Admiral I am responsible for all things punting and encourage all Darwinian's to join the punt club and enjoy this Cambridge past-time. Additionally, I am the men's co-captain of the Darwin College Boat Club. Between spending time in and around boats and the lab, you'll often find me engaging in some nonsense conversation or other in the parlour.
 <br><br>
  
 The Admiral of the Punts is responsible for all the punt club's vessels, including punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
@@ -92,10 +89,11 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
          dcsa_coms@darwin.cam.ac.uk<br/>
-         Janani Ventakash <br/>
+         Janani VENKATESH <br/>
         <p align="justify">
-Still no bio from Janani :-/ 
- <br><br>
+Heya! I'm Janani, a PhD student in Earth Sciences, primarily based at the British Antarctic Survey. I'm researching how air bubbles trapped in ice core samples can be used as a proxy to study ice elevation changes in Antarctica during past climate transitions, and what that means for a warming future. When not in the cold lab, I'm happiest outdoors, in the mountains, and I love exploring new places and cultures. I have a wide range of hobbies and am always up for trying new things. Come say ‘Hi!’ if you see me in college and If you have any pressing questions or if you'd like to share something in the WhatsUp, please write to me at dcsa_coms@darwin.cam.ac.uk . I would love to chat! 🙂
+Fun fact: I'm fluent in 3 languages, rusty in 2 others and still learning new ones! 
+<br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info">mailing list</a>!
         </p>
@@ -108,8 +106,9 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Disabilities Officer</strong><br/>
          dcsa_disabilities@darwin.cam.ac.uk<br/>
-         Vacant <br/>
+         Elena LUCIANO-SUASTEGUI <br/>
         <p align="justify">
+I am Elena Luciano-Suastegui, a first year PhD student working with the history of the British Quaternary Geology and images of science in East Anglia and Portugal in the twentieth century. As a disabilities officer, I am interested in getting to know the needs of our community to make Darwin more accessible. In the past months as a DCSA officer, I have responded to individual requests, including accessible yoga and meditation sessions. I am happy to coordinate events and requests for the future. Please, reach out to share your thoughts, requests, and ideas to dcsa_disabilities@darwin.cam.ac.uk
 <br><br>
 
 The Disabilities Officer is a position to support other DCSA officers and the
@@ -140,8 +139,11 @@ Hi there! I’m Mika, a second-year PhD student in astronomy working on understa
     </td>
     <td style="vertical-align: middle">
         dcsa_ents@darwin.cam.ac.uk<br/>
-         Vacant
-        <br/>
+        Marine BERTHELOT (she/her)
+
+Hi! I’m Marine, a second-year PhD student in Clinical Neurosciences working on modelling rare genetic neurovascular diseases using patient-derived stem cells. When I am not busy feeding my cells better than I feed myself, I am usually taking every dance class on offer, trying new coffee spots, or on either side of the bar! 
+I look forward to hearing any fun creative ideas you have for future BOPS and cannot wait to dance the night away with you all!
+       <br/>
        <p align="justify"> 
  <br><br>
 
@@ -173,9 +175,9 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
     <td style="vertical-align: middle">
         <strong>Events Officer</strong><br/>
          dcsa_events@darwin.cam.ac.uk<br/>
-         Grete FELDMAN <br/>
+         Vacant <br/>
         <p align="justify">
-Hi! I’m Grete, a first year PhD student in Theoretical and Applied Linguistics. I’m currently focusing on second language idiom processing and how our brains react when the language form and meaning don’t quite match. If I’m not working in the Parlor, you can usually find me on the Taekwondo mats, finding new cafes, or searching for my next adventure. If you have any ideas for events you would like to see around the college, please don’t hesitate to reach out and let me know!
+
  <br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
@@ -189,16 +191,11 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external@darwin.cam.ac.uk<br/>
-         Alex JESSEN <br/>
+         Michael JOYCE (he/him) <br/>
         <p align="justify">
+Hello! I’m Michael (he/him), and I’m a second year PhD student in the department of Materials Science & Metallurgy looking at the growth and characterisation of ultrathin films for non-volatile memory, requiring me to work in a clean room and thus wear a hairnet. I studied nanoscience in Ireland for my undergrad. Beyond all that I’m also treasurer of Darbar (best bar in Cam). I spend my days oscillating between the bar and west cambridge due to my prima donna of a laser, but if you need a bowtie tied I’m your man.<br><br>
 
-<br><br>
-
-Hi everyone,
-I’m Alex. I’m from Berlin, and I’m enrolled in the LL.M. program, where I mainly study public international law. When I’m not trying to catch up with the seemingly never-ending reading lists, I enjoy rowing, going to the gym, and spending time with my friends at Darbar.
-
-        
-The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
+The External Officer is responsible for managing relationships and organising as well as hosting events with other Cambridge Colleges, particularly formal dinner swaps. They also represent the DCSA at Cambridge SU term meetings and organise social events of intra-collegiate nature.
         </p>
     </td></tr>
     
@@ -227,8 +224,7 @@ The Families Officer is responsible for representing and furthering the needs of
          dcsa_international@darwin.cam.ac.uk<br/>
          Merve DIREKTOR <br/>
         <p align="justify">
-Hi! I’m Merve — a Clinical Neurosciences PhD student from Cyprus. Twelve years ago, I set off on an adventure to pursue my passion for science in England. Along the way, I’ve lived in different countries, creating meaningful memories and friendships. Though I carry the bittersweet essence of missing home, I embrace the challenge of adapting and finding comfort in new surroundings. I believe that a sense of belonging is nurtured by those who welcome us, listen to our stories, and share in our experiences. Therefore, whether you’re seeking a friendly chat, need assistance, looking for resources, or want a quiet moment, I’m here to help create a sense of home far away from home. 
-<br><br>
+Hi! I’m Merve — a Clinical Neurosciences PhD student from Cyprus. Twelve years ago, I set off on an adventure to pursue my passion for science in England. Though I carry the bittersweet essence of missing home, I embrace the challenge of adapting and finding comfort in new surroundings. I believe that a sense of belonging is nurtured by those who welcome us, listen to our stories, and share in our experiences. Therefore, whether you’re seeking a friendly chat, need assistance, looking for resources, or want a quiet moment, I’m here to help create a sense of home far away from home.
 
 The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
         </p>
@@ -246,7 +242,7 @@ The International Officer is responsible for representing the needs of internati
 
 <br><br>
 
-The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Joe is always there to chat, advise and help out where possible.
+The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, the Q+ Officer is always there to chat, advise and help out where possible.
         </p>
     </td></tr>
 
@@ -259,19 +255,8 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
          dcsa_sports@darwin.cam.ac.uk<br/>
          Andrew JENKINS <br/>
         <p align="justify">
-I'm Andy, a second year engineering PhD student researching ground-borne
-vibration in buildings, having worked previously in civil engineering
-construction. You'll hear from me when there are opportunities to get
-involved in sports at any level, to support Darwinians in
-University-level sport as they crush O*ford in their Varsity matches, or
-if we're showing major sporting events in college. If we start training
-now, we're sure to reclaim the sports day trophy from Wolfson (Oxon)
-when they come over in spring 2026...
-            
+I'm Andy, a third year engineering PhD student researching ground-borne vibration in buildings, having worked previously in civil engineering construction. You'll hear from me when there are opportunities to get involved in sports at any level, to support Darwinians in University-level sport as they crush O*ford in their Varsity matches, or if we're showing major sporting events in college. I’m also the person to talk to if you want to start a new Darwin society or sports team, or revive an old one.            
 <br><br>
-
-       
-
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-II.jpg" alt="[Sports and Societies Officer's II picture]" width="300px"/></a>
@@ -293,11 +278,9 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
         <strong>Welfare Officers</strong><br/>
         dcsa_welfare@darwin.cam.ac.uk<br/>
         <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
-        Masha Novoselova (She/Her), Women's and NB Welfare<br/>
+        Megan HATHAWAY SCRIVENS (she/her), Women's and NB Welfare<br/>
         <p align="justify">
-Hello everyone, I’m Masha, a final-year PhD student at the Wolfson Brain Imaging Centre. I work on novel MRI techniques to bridge the gap between physics and medicine! Outside the lab, you can find me with the college climbing club or unwinding during Darwin yoga 🙂
-
-Please feel free to reach out if you ever want to chat or need support.
+Hello fellow Darwinians! My name is Megan and I am a Master’s student in Politics and International Studies transitioning into the first year of my PhD! I am from the UK but I grew up in Ontario, Canada. When I am not in the depths of studying food systems, I am drinking copious amounts of coffee in the café, feeding the ducks in the Cam, or reading a book in the garden. I am always up for a friendly chat so please don’t hesitate to reach out or say hello when you see me around college!
  <br><br>
 </p>
 </td></tr>
@@ -310,12 +293,12 @@ Please feel free to reach out if you ever want to chat or need support.
     <td style="vertical-align: middle">
         dcsa_welfare@darwin.cam.ac.uk<br/>
         <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
-        Dominic LEACH (he/him), Men's and NB Welfare<br/>
+        Dmitry FILIPPOV (any pronouns), Men's and NB Welfare<br/>
         <p align="justify">
-Hey, I’m Dom, I am currently in my 2nd year of my PhD studying plant science at the Sainsbury Lab in the botanic garden. My research explores the mechanical stress responses of plants and explore how they are able to detect touch and push back against it. While not in the lab I love to run and hike, anything outdoors basically and am recently getting into reading so I’m taking book suggestions. Here to talk over whatever drink takes your fancy, love a good natter so feel free to approach me around the college:)
+Hey, I am Dima. I am a 2nd year PhD student in quantum computing. My research focuses on architecture modelling and resources estimation. Outside of my work I love tea, board games, hiking and whatever my ADHD decides to hyperfocus on that week. I am also into a lot of geek stuff like videogames, anime, artsy movies and xianxia. Find me around college for a chat!
 <br><br>
 
-The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
+The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us in College, if you need anything or just want to have a chat!
        </p>
     </td></tr>
 
@@ -326,10 +309,10 @@ The Welfare Officers are the student contact for students who are in need of hel
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
         dcsa_women@darwin.cam.ac.uk<br/>
-        Han Chen (she/her)<br/>
+        Kleo REDD <br/>
         <p align="justify">
  
-Hi everyone! I’m Han, from Southeast China, and I’m currently studying for an MPhil in Conservation Leadership. When I’m not keeping up with work, you’ll probably find me spending time outdoors, climbing, or settling into a quiet corner of a coffee shop. I love meeting people with all kinds of stories, so if we cross paths, give me a wave or come say hi!<br><br>
+Hello everyone! My name is Kleo (she/her) and I am a second year PhD student in Criminology. My research looks at the impact of abortion bans in the United States on tactics of intimate partner violence perpetration. Before my PhD, I worked in the violence against women and girls (VAWG) sector. In my free time I like to crochet, go on hikes, play ultimate frisbee, and travel as much as possible. You are most likely to find me in the Darwin parlour or sitting in one of the outdoor areas around college. Please don't hesitate to come say hi. I am always happy to answer questions or have a chat for any reason (or no reason at all). <br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
@@ -342,9 +325,9 @@ The Women's Officer is responsible for representing and furthering the needs of 
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps@darwin.cam.ac.uk<br/>
-        Liz PFLUGBEIL <br/>
+        Mary SKUODAS <br/>
         <p align="justify">
-Hi, I’m Liz, in my second year of my PhD at the Department of Land Economy studying how energy policy influences the innovation of renewable energy technology. I love dancing, hiking, traveling and trying out new things - for example, I took up Archery in my first year in Cambridge. Chances are you will often see me around Darwin, be it in the dining hall, the garden or taking out one of the punts or kayaks. I’m always happy to chat so please don’t hesitate to reach out or say hello if you see me around!
+Hello! I’m Mary (they/them), a PhD student in the Division of Virology (Pathology) unpicking the effects Zika virus infection has on the developing foetal brain. I’m proud to represent the students of Darwin through College Council on all matters, be it divestment from arms and occupation, accessibility, and the day-to-day ways that the college can support and represent students better. Based at Addenbrookes, you can often find me wandering around the concourse looking for a sweet treat, in a cafe, or reading a book in the beautiful green spaces Cambridge has to offer. Please don’t hesitate to say hello, or reach out to me at any time on any issue - my emails are always open!
             <br><br>
 
       
@@ -355,12 +338,12 @@ Hi, I’m Liz, in my second year of my PhD at the Department of Land Economy stu
     </td>
     <td style="vertical-align: middle">
         dcsa_council_reps@darwin.cam.ac.uk<br/>
-        Mary SKUODAS <br/>
+        Oisín O’KEEFFE <br/>
         <p align="justify">
-Still no bio from Mary :-/            
+Hi, I’m Oisín. I am a second-year PhD student studying the common gene regulatory network of cancer. In addition to my role as a College Council representative, I am secretary of DarBar. When I’m not at work, you’ll find me reading in the parlour, hanging out at the bar, or combatting the crippling effects of hours of cell culture on my posture at Saturday yoga.            
 <br><br>
 
-The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
+The College Council Reps are elected by the students to sit on the College Council and be Trustees of the college, as well as being part of other college governance committees. They also provide an update on the business of the College Council at DCSA committee meetings, and provide feedback to the College Council on student interests and perspectives. One rep is elected in November, and the other is elected in May.
         </p>
     </td></tr>
 
@@ -372,12 +355,12 @@ The College Council Reps are elected by the students to represent them in Colleg
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
         dcsa_bar@darwin.cam.ac.uk<br/>
-        Aidan EVANS <br/>
+        Simon VIRÁG <br/>
         <p align="justify">
-Hey hey, I’m Aidan! I’m a third-year PhD student in Computer Science, researching the mathematical foundations of computer science (“P vs NP” stuff for those familiar). I grew up in the US and spend much of my free time traveling and trying out new hobbies. Among many others, I’m highly involved in the university’s gymnastics club and yacht sailing club. You’ll likely find me chilling in DarBar with friends so if you have any bar- or adventure-related questions, feel free to come say hi!
+Hi! I'm Simon, a second-year PhD student in Computer Science, working on multi-agent learning in datacentres. If I'm not in the lab or in the bar (occupational hazard), you'll find me in the gym, in the parlour, over a game of poker, or with a Michael Lewis book.
 <br><br>
 
-DarBar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
+DarBar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee (“BarComm”) and a large group of bartenders. With the help of the rest of BarComm, they manage the finances and administration of the bar in addition to organizing events for the Darwin community, and make sure everyone can enjoy the bar, while keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making DarBar even better, please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
         </p>
     </td></tr>
 
