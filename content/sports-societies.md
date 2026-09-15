@@ -71,9 +71,23 @@ Having BEEn lured in by the sweet idea  of collecting our very own honey, the  D
 <br><br>
 
 <strong>Contact:</strong> <br>
-Sofia (skpd2)<br>
+Bea (tah56) <br>
+Jacob (jgp34)<br>
 Look for WhatsApp group in Darwin Community
 </details>
+
+<!-- Board Games Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Board Games Society </b></summary>
+
+<!-- NB: insert image -->
+We're a very welcoming board game group who meet every Monday evening with snacks and a variety of games from quick fun party games to intense 3 hour strategy games! Feel free to bring along your own games - the society also has a substantial board game collection which is both available at our weekly sessions and week-round to all college members (half our games can be found in the games cupboard at DarBar, and the other half in the Reading Room). Hope to see you at one of our games evenings!
+<br>
+<strong>Contact</strong><br>
+Bea (tah56) <br>
+Jacob (jgp34)<br>
+</details>
+
 
 
 <!-- Boat Club -->
@@ -94,12 +108,12 @@ Try a few water sessions (outings) at the beginning of Michaelmas, and with the 
 <br><br>
 Come and chat to us to find out more at the Fresher’s  Sports  and  Societies  Fair,  and  even  get started and have a go on the erg!
 <br><strong>Contact:</strong> <br>
-Both Captains: darwin.captain@cucbc.org<br>
-Samantha: darwin.women@cucbc.org<br>
-Ben: darwin.men@cucbc.org <br>
-Instagram: @darwincollegeboatclub <br>
-Facebook: DarwinCollegeBoatClub<br>
+Overall capt (Nicholas): darwin.captain@cucbc.org<br>
+Dilsad: darwin.women@cucbc.org<br>
+Dom &amp; Huw: darwin.men@cucbc.org <br>
   <br><br>
+<a href="https://www.dcbcrowing.wordpress.com/">Website</a><br>
+<a href="https://www.instagram.com/darwincollegeboatclub/">Instagram</a><br>
 <a href="https://www.facebook.com/DarwinCollegeBoatClub/">Facebook</a><br>
 </details>
 
@@ -109,10 +123,22 @@ Facebook: DarwinCollegeBoatClub<br>
 
 <!-- NB: insert image -->
 
-In 2021, the College has relaunched the college choir, meeting regularly each Tuesday at 1800 in the Bradfield Room. Our new  director, Francis  Knights, has put together a  wonderful  programme of very  accesible English Church Music spanning 900 years  and including pieces by Tallis,  Purcell and Charles Wood, and we would love more singers to join us! The choir is run by the college and not through the DCSA.The choir is open to individuals of all abilities and from throughout the Cambridge     community and the music is VERY accessible. You don't have to be a Darwin  member, so spouses, significant others, partners, and friends are all welcome. Our rehearsals are fun, rewarding, and take place in a very friendly, welcoming environment. Do come along to de-stress from the pressures of work and help support our emerging musical community. 
+The Darwin College Choir is a space for students, fellows and staff to meet up
+and make music together. We welcome new members of all abilities throughout
+the year, no auditioning needed. You also don't have to be a Darwin member, so
+spouses, significant others, partners, and friends are all welcome. Our choral
+director, Pierre Riley (pprr3), has been with the choir since 2023 and creates
+a wonderful and vibrant community and musical programme with us every year.
+Our repertoire ranges widely and blends languages and time periods, including
+member suggestions.
+
+We meet at 7:30&ndash;9&nbsp;pm on Tuesdays in the Old Library.
+
 <br><br>
-<strong>Contact:</strong> <br>Siggi (sm2237)
+<strong>Contact:</strong><br>
+Isabel (imp31)
 <br><a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
+<br><a href="https://chat.whatsapp.com/CskKi1pUQMv1wVpEOyUlpX">Whatsapp</a> <br>
 </details>
 
 <!-- Climate Society -->
@@ -124,16 +150,6 @@ Darwin Climate Society exists to promote awareness of the climate breakdown amon
 The society also provides support to the Environmental and Ethical Affairs Officer, the College Sustainability Project Manager, and others in pursing environmental sustainability objectives. The society also provides a forum for the dissemination of climate-related information and constructive discussion about all climate-related matters.
 
 <strong>Contacts:</strong> Liz (lp675) and Mika (mvk26) <br>
-</details>
-
-<!-- Climate SynBio Society-->
-<details align="justify" style="text-align:justify">
-  <summary><b>Climate SynBio Society </b></summary>
-
-Interested in synthetic bio and biotech research to address climate change? We're creating a space  for  people  who  are  interested in applying biosciences (and other sciences) to the climate challenge. This could be  all the way from designing  enzymatic carbon capture, to engineering cops with better drought resistance, to hydrogen-producing bacteria and beyond.  Anything that can either reduce climate impacts of help us live with the consequences. We organise seminars with guest speakers  to share their research with us, and of course have fun socials too. <br>
-
-<strong>Contact:</strong> Gabrielle (ga457)<br>
-
 </details>
 
 <!-- Climbing -->
@@ -148,11 +164,12 @@ Interested in synthetic bio and biotech research to address climate change? We'r
 <img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]"/>
 </div>
 
-We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an  indoor bouldering session at  one of the  two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the  occasional outdoor trip further north or abroad when the weather/season permits. We organise everything  over WhatsApp or over a pint  at  DarBar or check out  what we are up to on Facebook “Darwin College Climbing Club”.  We have  bouldering  mats, a trad  rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor)
+Welcome to the climbing society! In addition to weekly bouldering hangouts at Rainbow Rocket (North and Central), we also sporadically climb at Kelsey Kerridge climbing centre and have a range of outdoors climbing equipment that you can borrow. Come join us at one of our free taster sessions - no climbing experience required!
 <br><br>
 
 <strong>Contact:</strong> <br>
-Kevin (kchl2)<br>
+Lucia (lh866)<br>
+Michael (mab282)<br>
 <a href="https://chat.whatsapp.com/CQijXL9MgINJcFVZSgLJU2">WhatsApp</a><br>
 </details>
 
@@ -160,21 +177,20 @@ Kevin (kchl2)<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Coffee Club </b></summary>
 
-Our mission is to caffeinate college. If you enjoy coffee, want to meet fellow coffeeholics or just learn more about the world's most popular beverage, Darwin Coffee Society is the place to be.<br>
-We are an open and inviting community - you don't even need to know anything about coffee to join in - that seeks to put great coffee in the mouths of our members - simple as that.
-Throughout the year, we …<br>
-- host trainings/workshops<br>
-- explore Cambridge's vibrant coffee scene<br>
-- organize cycling trips to coffee destinations<br>
-- bring in coffee experts for talks<br>
-- host coffee crawls<br>
-- visit roasteries<br>
-- …your idea?<br>
+Calling all coffeeholics and enthusiasts! We are an open, welcoming community
+for people to enjoy and learn more about coffee. Throughout the year, we
+organise a number of coffee-related events, such as coffee workshops (learn to
+brew better coffee at home!), coffee circles (come explore different Cambridge
+cafés together in the mornings), and so much more. It doesn't matter if you
+are a coffee nerd or just enjoy your daily cuppa: We would love to have you
+join! Do reach out in case of any questions or joins our WhatsApp group on the
+Darwin community.
 <br><br>
 
 <strong>Contact:</strong><br>
- Jonas Spengler (js2576), Magda Nowinska (mn561) <br>
-Join our mailing list<br>
+Marianna (mes86)<br>
+Magda (mn561) <br>
+Jonas (js2576) <br>
 <br><br>
 </details>
 
@@ -186,11 +202,11 @@ Join our mailing list<br>
 <img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]"/>
 </div>
 
-Darwin College Cricket Club (DC3) is a friendly and welcoming sports club whose primary focus is not about winning, but on  making sure that as many Darwinians as possible are introduced to the sport, and get a chance to play it competitively in the  Cuppers and the MCR league. DC3 has a history of being as old as the college  itself, although the club was inactive during some intervals. We welcome players of all abilities, from absolute novices to seasoned veterans. DC3 also organises entertainment and fun activities throughout the year including a termly traditional cricket tea with scones, jam & cream. If you are keen to know more about cricket at Darwin (or want to settle the scone-rivalry), please come and join us!
+Darwin and Wolfson CC (Dolfin CC) are an inclusive social and competitive cricket club that caters for all abilities and past experience. Most have never played before so please come down regardless of ability! We will be playing in four different competitions next year, looking to continue our success in the MCR league. Please get in touch if you have any interest in playing cricket!
 <br><br>
 
 <strong>Contact:</strong><br>
-David (ds993), George (gc681)<br>
+George (grs53)<br>
 <a href="https://chat.whatsapp.com/L1GNN5gXesj03dbWaedmA9">WhatsApp</a><br>
 <a href="https://instagram.com/darwin_college_cricket_club?igshid=OGQ5ZDc2ODk2ZA">Instagram</a><br>
 </details>
@@ -225,6 +241,20 @@ or style to try, such as still life, pot painting, clay sculpting, marbling and 
 <br>
 </details>
 
+<!-- Film Club -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Film Club </b></summary>
+
+<!-- NB: insert image -->
+
+The Darwin Film Society meets at 7pm every Sunday to watch a diverse range of films spanning all time classics, new releases and hidden gems you might not have thought to see otherwise. We acquire Blu-ray DVDs every week in the best available format (4k, if possible) and have a great AV setup, so you won't be disappointed. We also host various events throughout the academic year, including the summer, and have a society group trip to the cinema every term. Come for the popcorn - stay for the discussions in the bar afterward!
+<br><br>
+<strong>Contact</strong><br>
+Michael (mab282) <br>
+Janani (jv482)<br>
+<a href="https://www.facebook.com/groups/DarwinCollegeFilmClub/">Facebook</a><br>
+</details>
+
 
 <!-- Football (Men's)-->
 <details align="justify" style="text-align:justify">
@@ -257,7 +287,7 @@ We play in the inter-college women’s football league throughout Michaelmas, Le
 <br><br>
 
 <strong>Contact:</strong> <br>
-Bianca (bp551), Daniela (ds936)<br>
+Toni (aj788)<br>
 <br><br>
 <strong>Social Media:</strong> <br>
 <a href="https://www.instagram.com/d.e.w.f.c/">Instagram</a><br>
@@ -278,7 +308,7 @@ Darwin college members, usually meeting every Sunday at 4pm. Whether you're a se
 you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit! But DarGar is not just about growing - it's about eating too! In the summer months, you'll be able to pick your favourites or try new fruit/veg. In October we collect the apples and pears from the Darwin trees to make juices and chutneys. Over the winter we still meet up, often to make delicious dishes from food bought at the local farmers' market.
 <br>
 
-<strong>contact:</strong> Jana (js711)<br>
+<strong>contact:</strong> Annie (ah2083)<br>
 <br> Instagram: darwin.gardening.society
 </details>
 
@@ -341,7 +371,7 @@ For further information, see <a href="{{site.baseurl | absolute_url}}/punts/">ou
 <br><br>
 
 <strong>Contact:</strong> <br>
-Martin, dcsa_punts@darwin.cam.ac.uk<br>
+dcsa_punts@darwin.cam.ac.uk<br>
 
 </details>
 
@@ -355,12 +385,12 @@ Martin, dcsa_punts@darwin.cam.ac.uk<br>
 
 A group for organizing Darwin's quizzing activities, from the termly darQuiz to the University Challenge team.
 <br><br>
-<strong>Contact:</strong> Jon (jiw29)<br>
+<strong>Contact:</strong> Ben (bgjm2)<br>
 </details>
 
 <!-- Rugby -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Rugby </b></summary>
+  <summary><b>Rugby (All Greys)</b></summary>
 
 <!-- NB: insert image -->
 
@@ -382,7 +412,7 @@ while enjoying fresh air and good company! We like to get out a few times a week
 depending on the desires of the group. We encourage participation by runners of all abilities and often offer lead route variations to accommodate a variety of distances/paces. Please get in contact with us if you would like to know more about our regular schedule and try out a run! Members of our club often decide to try out one of the many annual races in Cambridge such as the Town & Gown 10K, Cambridge Half Marathon, the Boundary Run Half/Full Marathon, or the Chariots of Fire Relay. In the past we have also represented at races in London and beyond. As a club, we set up sessions so that we can train together towards these ambitious goals.
 
 <strong>Contact:</strong> <br>
-Chloe Patman, cep72 <br>
+TBC <br>
 <br>
 <strong>Social Media:</strong> <br>
 <a href="https://www.facebook.com/groups/DCRC2018/">Facebook</a><br>
@@ -401,7 +431,7 @@ Whether you are someone who's always wanted to try squash but never had the time
 competition, Darwin Squash is the place for you. We run taster sessions during the early part of Michaelmas, have weekly coached
 sessions during term time, and participate in the college leagues (Michaelmas and Lent) and Cuppers (Lent). And of course if you just want to play for fun, there's loads of club mates who are up for friendly games during the week. Come say hello and find out how to book courts and borrow equipment.
 <br><br>
-<strong>Contact:</strong> Rishi (mdh37)<br>
+<strong>Contact:</strong> Aditi (am3283)<br>
 </details>
 
 <!-- Swimming Club -->
@@ -416,6 +446,19 @@ successfully competed in the inter-college Cuppers Competition and we hope to do
 <br>
 </details>
 
+<!-- Tennis -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Tennis </b></summary>
+
+<br><br>
+The Darwin Tennis club is aiming to get back up and running again this year.
+Contact Leah or find us in the WhatsApp community
+
+<strong>Contact:</strong><br>
+Leah (lrh40)
+<br>
+</details>
+
 <!-- Ultimate Frisbee -->
 <details align="justify" style="text-align:justify">
   <summary><b>Penguins Ultimate Frisbee </b></summary>
@@ -427,7 +470,7 @@ successfully competed in the inter-college Cuppers Competition and we hope to do
 <br>
 Ultimate Frisbee is a team sport played with a flying disc. The best way to get a sense of what it’s all about is to come along and try it! We hold weekly training sessions involving throwing practice, some drills and lots of games – anyone from complete beginner to national-level player is welcome to join us. Matches for the friendly but competitive College league are usually at weekends, and there’s a tournament at the end of each term. Our team comprises players from a few different colleges, so playing with us is a great way to meet people from other colleges too – plus we organise plenty of socials and formals.
 <br><br>
-<strong>Contact:</strong> Mahmud (mh2169)<br>
+<strong>Contact:</strong> Shaurya (sa2267)<br>
 <br>
 </details>
 
@@ -484,7 +527,12 @@ Alex (darwincollegeyogaclub@gmail.com)
 <br>
 If there’s a club/society not listed here,  not to worry - you can start it! To found a new club/society you need to have a President and a Treasurer, and 15 Darwin students need to sign up. Then, you can apply for funding from the DCSA Treasurer.  
 <br><br>
-Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Masha (dcsa_treasurer@darwin.cam.ac.uk) or Gratsiela and Laura (dcsa_sports@darwin.cam.ac.uk)
+Some clubs we have previously offered are also looking for volunteers to help
+lead them this year, they are listed below. If you're interested in getting
+involved with one of these clubs or starting a new one, come to the Sports &
+Societies Fair to pick up the necessary paperwork  or email the DCSA treasurer
+(dcsa_treasurer@darwin.cam.ac.uk) or the Sports &amp; Societies officers
+(dcsa_sports@darwin.cam.ac.uk)
 <br>
 
 
@@ -537,6 +585,14 @@ A society for all those interested in chess at Darwin College. We have weekly ch
 <a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
 </details>
 
+<!-- Climate SynBio Society-->
+<details align="justify" style="text-align:justify">
+  <summary><b>Climate SynBio Society </b></summary>
+
+Interested in synthetic bio and biotech research to address climate change? We're creating a space  for  people  who  are  interested in applying biosciences (and other sciences) to the climate challenge. This could be  all the way from designing  enzymatic carbon capture, to engineering cops with better drought resistance, to hydrogen-producing bacteria and beyond.  Anything that can either reduce climate impacts of help us live with the consequences. We organise seminars with guest speakers  to share their research with us, and of course have fun socials too. <br>
+
+</details>
+
 <!-- Cycling Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cycling Club </b></summary>
@@ -565,32 +621,6 @@ See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf"
 If you have any questions or want to get involved with this society, please get intouch:
 <br><br>
 dcsa_families AT darwin DOT cam DOT ac DOT uk<br>
-</details>
-
-
-<!-- Film Club -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Film Club </b></summary>
-
-<!-- NB: insert image -->
-
-The Darwin College Film Club welcomes all cinema fans for a few hours of relaxation, entertainment and reflection. We are lucky to have a well-equipped and continuously upgraded TV-Room in the main building where any Darwinians can come and watch movies. All styles of films are showcased - from old time black and white classics, summer blockbusters, international art films, documentaries, and so forth. Feel free to share with us your personal preferences, as the club has a budget to order movies, which are not available in the DVD-library. We aim to organise several thematic events over the year including themed nights, film marathons, outdoor screenings and joint screenings with other Darwin College Societies (Mind Matters Darwin, Darwin PhotoSoc, Families Society). Join the Facebook group “Darwin College Film Club” and the mailing list to receive updates on our screenings. We welcome everyone to join, sit back and relax while watching awesome movies.
-<br><br>
-The Film Club is looking for a President and a Treasurer. If you are interested, please contact Giulia,
-<br><br>
-<a href="https://www.facebook.com/groups/DarwinCollegeFilmClub/">Facebook</a><br>
-</details>
-
-
-<!-- Games Society -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Games Society </b></summary>
-
-<!-- NB: insert image -->
-Hello Darwinians!
-
-Do you enjoy games of skill, deception, luck, or dexterity? Join the Darwin College Board Game Society! We at DCBGS have a range of games in college that are normally available 24/7, as well as hosting weekly board game nights, often supplemented with games from our own collections. Games are currently unavailable due to COVID, but do join up at the Sports and Societies Fair to keep up to date with new announcements! Hope to be back in action soon! 
-<br>
 </details>
 
 <!-- Green Hub -->
@@ -739,16 +769,6 @@ science pub quizzes, lively debates to movie nights and much more... Nonscience 
 <br><br>
 
 <a href="https://www.facebook.com/darscisoc">Facebook</a> <br>
-</details>
-
-<!-- Tennis -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Tennis </b></summary>
-
-<br><br>
-
-<strong>Contact:</strong><br>
-<br>
 </details>
 
 <!-- Water Polo -->
