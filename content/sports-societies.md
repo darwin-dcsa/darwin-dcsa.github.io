@@ -23,7 +23,8 @@ Our club welcomes players of all standards, from complete beginners to experienc
 WhatsApp: Access via Community Page
 
 
-<strong>Contact:</strong> Kaizhong (kx232)
+<strong>Contact:</strong>
+2026 contact TBC - check the WhatsApp community
 <br><br>
 </details>
 
@@ -37,7 +38,8 @@ WhatsApp: Access via Community Page
 </div>
 
 Darwin College has a proud and successful basketball tradition! Every year, we compete in two of Cambridge University's  intercollegiate competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers tournament  (Easter  term). We are the reigning champions in both competitions  and  are  eager  to  defend  our  titles this season! The season  officially runs from late  October to April,  but  our  commitment  to  basketball  doesn’t stop there. We continue to train once a week and play throughout the summer. Come join us, make new friends, and help us keep the winning tradition alive!<br><br>
-<strong>Contact:</strong> Ryan (hl678)
+<strong>Contact:</strong>
+2026 contact TBC - check the WhatsApp community
 <br><br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 </details>
@@ -270,7 +272,7 @@ University JCR league, and we also enter into one of the world’s oldest cup co
 
 
 <strong>Contact:</strong> <br>
-Jon (jiw29) and Kalid (ku230)
+2026 contact TBC - check the WhatsApp community
 
 </details>
 
@@ -412,7 +414,7 @@ while enjoying fresh air and good company! We like to get out a few times a week
 depending on the desires of the group. We encourage participation by runners of all abilities and often offer lead route variations to accommodate a variety of distances/paces. Please get in contact with us if you would like to know more about our regular schedule and try out a run! Members of our club often decide to try out one of the many annual races in Cambridge such as the Town & Gown 10K, Cambridge Half Marathon, the Boundary Run Half/Full Marathon, or the Chariots of Fire Relay. In the past we have also represented at races in London and beyond. As a club, we set up sessions so that we can train together towards these ambitious goals.
 
 <strong>Contact:</strong> <br>
-TBC <br>
+2026 contact TBC <br>
 <br>
 <strong>Social Media:</strong> <br>
 <a href="https://www.facebook.com/groups/DCRC2018/">Facebook</a><br>
@@ -519,7 +521,7 @@ You can join our online classes by subscribing to our "Darwin College Yoga" mail
 online yoga classes, get in touch. We also offer more advanced workshops and social events once a term!
 
 <strong>Contact:</strong><br>
-Alex (darwincollegeyogaclub@gmail.com)
+2026 contact TBC
 <br>
 </details>
 
@@ -527,26 +529,16 @@ Alex (darwincollegeyogaclub@gmail.com)
 <br>
 If there’s a club/society not listed here,  not to worry - you can start it! To found a new club/society you need to have a President and a Treasurer, and 15 Darwin students need to sign up. Then, you can apply for funding from the DCSA Treasurer.  
 <br><br>
-Some clubs we have previously offered are also looking for volunteers to help
-lead them this year, they are listed below. If you're interested in getting
-involved with one of these clubs or starting a new one, come to the Sports &
-Societies Fair to pick up the necessary paperwork  or email the DCSA treasurer
-(dcsa_treasurer@darwin.cam.ac.uk) or the Sports &amp; Societies officers
+Some clubs which have existed in the last couple of years are listed below. We
+may still have equipment for some of these activities, so do ask if you're
+interested!
+<br>
+
+If you're interested in starting or restarting a Darwin sports team or society,
+come to the Sports & Societies Fair to pick up the necessary paperwork or email the DCSA treasurer
+(dcsa_treasurer@darwin.cam.ac.uk) or the Sports & Societies officers
 (dcsa_sports@darwin.cam.ac.uk)
 <br>
-
-
-<!-- APES -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Animal, Plant and Environment Society (APES)</b></summary>
-
-<div class="societies--image-container">
-<img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]"/>
-</div>
-<br>
-The Animal, Plant and Environment Society (APES) is an informal, fun and inclusive group who enjoy spending time outside in the natural environment. The troop leaders will plan activities to interact with nature in the local area, including tours of local nature reserves, birdwatching, kayak outings, vounteering and day trips. Bananas will be provided.
-<br><br>
-</details>
 
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
@@ -641,21 +633,6 @@ Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer.
 <a href="https://www.facebook.com/greendarwincollege">Facebook</a>
 </details>
 
-<!-- Kizomba-->
-<details align="justify" style="text-align:justify">
-  <summary><b>Kizomba </b></summary>
-
-<!-- NB: insert image -->
-Let's play Kizomba!
-<br><br>
-You want to (socially-distanced) meet new people, dance, and make new friends? You wonder what 'musicality', 'weight-shifting' or 'lady-styling' mean? You are looking for some good fun and good music? Then come and join the Kizomba Society!
-<br><br>
-Kizomba is a dance and a musical genre originating from Angola and is often mentioned in the context of Salsa and Bachata.
-<br><br>
-We currently meet twice a week online for a two hours class, and have monthly special classes followed by music with our guest DJ. 
-<br>
-</details>
-
 
 <!-- Lawn Games Society-->
 <details align="justify" style="text-align:justify">
@@ -668,23 +645,6 @@ available to Darwin students to borrow and play. We also organise teams for croq
 <br>
 </details>
 
-
-<!-- Mind Matters Darwin -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Mind Matters Darwin </b></summary>
-
-<!-- NB: insert image -->
-
-Mind Matters Darwin wants to raise awareness around mental health, end the stigma and promote wellbeing. We organize recreational activities fostering connections and wellbeing: movie screenings broadly related to mental health and get-togethers. We organise free-of-charge Meditation and Positive Psychology courses (in collaboration with Inner Space Cambridge), in order to improve resilience and alleviate psychological sufferance. We also organise a Mindfulness in Nature course with Claire Thompson, usually in the fall or in the spring, to connect with nature and enjoy the beauty of Darwin Garden and meditation practices. We run a Relationship Anarchy Support Circle once a month to provide a safe space to talk about alternative forms of relationships and ask for support.
-<br><br>
-We want Darwinians to feel safe and part of a community: it's time to consider the students' mental health and wellbeing as a priority. We want to improve communication and provide information about the many available resources in Cambridge for mental health support: everyone who is in need should feel free to ask for help and receive the necessary support.
-<br><br>
-We all have a mental health to take care of!
-<br><br>
-Darwinians do care about mental health!
-<br><br>
-<a href="https://www.facebook.com/mindmattersdarwin">Facebook</a><br>
-</details>
 
 <!-- Minecraft Society -->
 <details align="justify" style="text-align:justify">
